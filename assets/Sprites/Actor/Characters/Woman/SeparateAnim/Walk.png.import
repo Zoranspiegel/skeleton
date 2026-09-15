@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://coff80ph7ku7m"
-path="res://.godot/imported/Walk.png-4cb28a65e29bf9607917e1760eea3fc3.ctex"
+path="res://.godot/imported/Walk.png-1d73746d2661dde5fc269d8d396580c5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Woman/SeparateAnim/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-4cb28a65e29bf9607917e1760eea3fc3.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Woman/SeparateAnim/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-1d73746d2661dde5fc269d8d396580c5.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c5lv3qfdg0mqh"
-path="res://.godot/imported/Walk.png-ef13148ebc35bea1b6cbf13082e0ee62.ctex"
+path="res://.godot/imported/Walk.png-70a4b8a1cb6b5b937b6eff0d306d1c8f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Cavegirl2/SeparateAnim/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-ef13148ebc35bea1b6cbf13082e0ee62.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Cavegirl2/SeparateAnim/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-70a4b8a1cb6b5b937b6eff0d306d1c8f.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://q4hpsm77s0x2"
-path="res://.godot/imported/Amulet.png-d2eff20b9026b01bf59da003e471c7b1.ctex"
+path="res://.godot/imported/Amulet.png-8492e36af9404b9b5c676d3c7fbbf7bc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Items & Weapon/Amulet.png"
-dest_files=["res://.godot/imported/Amulet.png-d2eff20b9026b01bf59da003e471c7b1.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Items & Weapon/Amulet.png"
+dest_files=["res://.godot/imported/Amulet.png-8492e36af9404b9b5c676d3c7fbbf7bc.ctex"]
 
 [params]
 

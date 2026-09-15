@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bd6jaare3togk"
-path="res://.godot/imported/HealDisabled.png-ba0e8d0aeb4d2b4b8a329329780ddcfd.ctex"
+path="res://.godot/imported/HealDisabled.png-b46080b5605f09eb2cad736cd12616be.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Spell/HealDisabled.png"
-dest_files=["res://.godot/imported/HealDisabled.png-ba0e8d0aeb4d2b4b8a329329780ddcfd.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Spell/HealDisabled.png"
+dest_files=["res://.godot/imported/HealDisabled.png-b46080b5605f09eb2cad736cd12616be.ctex"]
 
 [params]
 

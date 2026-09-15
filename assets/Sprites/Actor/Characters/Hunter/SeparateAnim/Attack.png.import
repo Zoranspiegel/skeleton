@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpndoxmrt4oo5"
-path="res://.godot/imported/Attack.png-583647e37f7c8c2e2f3cd96aceb84a77.ctex"
+path="res://.godot/imported/Attack.png-b59a05fcf312668bfa219005a26159a5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Hunter/SeparateAnim/Attack.png"
-dest_files=["res://.godot/imported/Attack.png-583647e37f7c8c2e2f3cd96aceb84a77.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Hunter/SeparateAnim/Attack.png"
+dest_files=["res://.godot/imported/Attack.png-b59a05fcf312668bfa219005a26159a5.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cfgkv5w2bfpwy"
-path="res://.godot/imported/SpriteSheet.png-874c0d6ff317bcb7df0dcaedbef18c87.ctex"
+path="res://.godot/imported/SpriteSheet.png-ef6024ac1f2f4cd6dbc437d6225657df.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Monsters/YellowsBat/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-874c0d6ff317bcb7df0dcaedbef18c87.ctex"]
+source_file="res://assets/Sprites/Actor/Monsters/YellowsBat/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-ef6024ac1f2f4cd6dbc437d6225657df.ctex"]
 
 [params]
 

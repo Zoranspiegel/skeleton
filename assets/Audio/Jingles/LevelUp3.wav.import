@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://do1xgg72pmly5"
-path="res://.godot/imported/LevelUp3.wav-4a26f26fe2f5c2d9e9b56ccbc7742696.sample"
+path="res://.godot/imported/LevelUp3.wav-6c767a417ebeeb88f501a9b8dd8ba258.sample"
 
 [deps]
 
-source_file="res://Audio/Jingles/LevelUp3.wav"
-dest_files=["res://.godot/imported/LevelUp3.wav-4a26f26fe2f5c2d9e9b56ccbc7742696.sample"]
+source_file="res://assets/Audio/Jingles/LevelUp3.wav"
+dest_files=["res://.godot/imported/LevelUp3.wav-6c767a417ebeeb88f501a9b8dd8ba258.sample"]
 
 [params]
 

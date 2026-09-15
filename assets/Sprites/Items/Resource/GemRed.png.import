@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4q6u4e0j8fsv"
-path="res://.godot/imported/GemRed.png-93b88ab98945b06e41c6c0de6dd924f1.ctex"
+path="res://.godot/imported/GemRed.png-3f16b7661386ef8a541634d8e97da346.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Items/Resource/GemRed.png"
-dest_files=["res://.godot/imported/GemRed.png-93b88ab98945b06e41c6c0de6dd924f1.ctex"]
+source_file="res://assets/Sprites/Items/Resource/GemRed.png"
+dest_files=["res://.godot/imported/GemRed.png-3f16b7661386ef8a541634d8e97da346.ctex"]
 
 [params]
 

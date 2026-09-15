@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bf5kpvyugrm5s"
-path="res://.godot/imported/Trans.png-161dd48312016e88a0c6d7dd41d7e6fc.ctex"
+path="res://.godot/imported/Trans.png-3244196bdcfda6a5a60c5a787672e4dc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Boss/TenguBlue/Trans.png"
-dest_files=["res://.godot/imported/Trans.png-161dd48312016e88a0c6d7dd41d7e6fc.ctex"]
+source_file="res://assets/Sprites/Actor/Boss/TenguBlue/Trans.png"
+dest_files=["res://.godot/imported/Trans.png-3244196bdcfda6a5a60c5a787672e4dc.ctex"]
 
 [params]
 

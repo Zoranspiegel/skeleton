@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bw2aimhlaaep"
-path="res://.godot/imported/Faceset.png-8f0e593167d74fd8be4d00db1151a9cd.ctex"
+path="res://.godot/imported/Faceset.png-d86fb1614d10ec3e4613ec9d6c7f2949.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Monk2/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-8f0e593167d74fd8be4d00db1151a9cd.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Monk2/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-d86fb1614d10ec3e4613ec9d6c7f2949.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://deg3a5yhd0e2b"
-path="res://.godot/imported/BigTreasureChest.png-deb1e9d81b5430b414a14ae8e91794cf.ctex"
+path="res://.godot/imported/BigTreasureChest.png-953b52c819f9dc0277011069a9ff46bb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Items/Treasure/BigTreasureChest.png"
-dest_files=["res://.godot/imported/BigTreasureChest.png-deb1e9d81b5430b414a14ae8e91794cf.ctex"]
+source_file="res://assets/Sprites/Items/Treasure/BigTreasureChest.png"
+dest_files=["res://.godot/imported/BigTreasureChest.png-953b52c819f9dc0277011069a9ff46bb.ctex"]
 
 [params]
 

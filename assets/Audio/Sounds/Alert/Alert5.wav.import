@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://couwmadgal2cs"
-path="res://.godot/imported/Alert5.wav-7786ee2834b3c15f95c892de23fee7f1.sample"
+path="res://.godot/imported/Alert5.wav-2f34a2b8d688bc4f094e1369f8ad6bb9.sample"
 
 [deps]
 
-source_file="res://Audio/Sounds/Alert/Alert5.wav"
-dest_files=["res://.godot/imported/Alert5.wav-7786ee2834b3c15f95c892de23fee7f1.sample"]
+source_file="res://assets/Audio/Sounds/Alert/Alert5.wav"
+dest_files=["res://.godot/imported/Alert5.wav-2f34a2b8d688bc4f094e1369f8ad6bb9.sample"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0u73y6tyua6h"
-path="res://.godot/imported/SpriteSheet.png-2ad7396c7741706e7ea3950168de772c.ctex"
+path="res://.godot/imported/SpriteSheet.png-833cfdfda5f4b5a853182cde7fe27008.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/OldMan/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-2ad7396c7741706e7ea3950168de772c.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/OldMan/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-833cfdfda5f4b5a853182cde7fe27008.ctex"]
 
 [params]
 

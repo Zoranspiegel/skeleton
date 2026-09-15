@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kljbj8u5bj11"
-path="res://.godot/imported/Walk.png-0dedcb937224699448a5eddff243df58.ctex"
+path="res://.godot/imported/Walk.png-4a990e6cabf9faa98a55f35fddc6baa4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Boss/GiantBamboo2/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-0dedcb937224699448a5eddff243df58.ctex"]
+source_file="res://assets/Sprites/Actor/Boss/GiantBamboo2/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-4a990e6cabf9faa98a55f35fddc6baa4.ctex"]
 
 [params]
 

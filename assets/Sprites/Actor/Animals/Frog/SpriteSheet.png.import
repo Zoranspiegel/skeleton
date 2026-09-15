@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://h5kflg3j2hnt"
-path="res://.godot/imported/SpriteSheet.png-82fd1cc1da4924f723d15930eab0639b.ctex"
+path="res://.godot/imported/SpriteSheet.png-6e5c6f706b7301709a702c4a0cdb3495.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Animals/Frog/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-82fd1cc1da4924f723d15930eab0639b.ctex"]
+source_file="res://assets/Sprites/Actor/Animals/Frog/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-6e5c6f706b7301709a702c4a0cdb3495.ctex"]
 
 [params]
 

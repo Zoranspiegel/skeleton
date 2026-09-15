@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0uk61pvlylgk"
-path="res://.godot/imported/Hit.png-6774d6ff3f52a4fe3b531ae0f1ba7806.ctex"
+path="res://.godot/imported/Hit.png-d453d36e0b42dc3965950516970f87bb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Boss/GiantBlueSamurai/Hit.png"
-dest_files=["res://.godot/imported/Hit.png-6774d6ff3f52a4fe3b531ae0f1ba7806.ctex"]
+source_file="res://assets/Sprites/Actor/Boss/GiantBlueSamurai/Hit.png"
+dest_files=["res://.godot/imported/Hit.png-d453d36e0b42dc3965950516970f87bb.ctex"]
 
 [params]
 

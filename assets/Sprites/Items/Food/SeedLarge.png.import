@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://sjh402u6scr"
-path="res://.godot/imported/SeedLarge.png-00c927ddda42d637a61e627df30e055d.ctex"
+path="res://.godot/imported/SeedLarge.png-78e8d9353d0232eddbf082b9ff7df970.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Items/Food/SeedLarge.png"
-dest_files=["res://.godot/imported/SeedLarge.png-00c927ddda42d637a61e627df30e055d.ctex"]
+source_file="res://assets/Sprites/Items/Food/SeedLarge.png"
+dest_files=["res://.godot/imported/SeedLarge.png-78e8d9353d0232eddbf082b9ff7df970.ctex"]
 
 [params]
 

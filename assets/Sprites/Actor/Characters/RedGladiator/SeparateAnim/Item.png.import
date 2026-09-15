@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xjioc40447lw"
-path="res://.godot/imported/Item.png-03d6e8510214c26ae496d0df50b0691a.ctex"
+path="res://.godot/imported/Item.png-f0b306604bef139d8a2b7b4cc1b3e6df.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/RedGladiator/SeparateAnim/Item.png"
-dest_files=["res://.godot/imported/Item.png-03d6e8510214c26ae496d0df50b0691a.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/RedGladiator/SeparateAnim/Item.png"
+dest_files=["res://.godot/imported/Item.png-f0b306604bef139d8a2b7b4cc1b3e6df.ctex"]
 
 [params]
 

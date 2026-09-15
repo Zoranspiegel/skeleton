@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkx2q85voh4wp"
-path="res://.godot/imported/Faceset.png-e8b4f1df4ab5c519f413093516336480.ctex"
+path="res://.godot/imported/Faceset.png-ba0817ba3373d5f14a2c877f934d54db.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Monsters/Slime4/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-e8b4f1df4ab5c519f413093516336480.ctex"]
+source_file="res://assets/Sprites/Actor/Monsters/Slime4/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-ba0817ba3373d5f14a2c877f934d54db.ctex"]
 
 [params]
 

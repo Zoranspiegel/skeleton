@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dy67xk8tc237d"
-path="res://.godot/imported/Permutation.png-23ae58aa77a3fa888ef8015ff3e9f78c.ctex"
+path="res://.godot/imported/Permutation.png-edace4a9e6f41536ca9cb99f5ef91acf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Spell/Permutation.png"
-dest_files=["res://.godot/imported/Permutation.png-23ae58aa77a3fa888ef8015ff3e9f78c.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Spell/Permutation.png"
+dest_files=["res://.godot/imported/Permutation.png-edace4a9e6f41536ca9cb99f5ef91acf.ctex"]
 
 [params]
 

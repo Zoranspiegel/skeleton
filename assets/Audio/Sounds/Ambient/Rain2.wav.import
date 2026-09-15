@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://gq322e35v8xw"
-path="res://.godot/imported/Rain2.wav-0bbb7d7131eb25f6dce39f183179114a.sample"
+path="res://.godot/imported/Rain2.wav-354ab27ef73f60427db2fd9a52231dc5.sample"
 
 [deps]
 
-source_file="res://Audio/Sounds/Ambient/Rain2.wav"
-dest_files=["res://.godot/imported/Rain2.wav-0bbb7d7131eb25f6dce39f183179114a.sample"]
+source_file="res://assets/Audio/Sounds/Ambient/Rain2.wav"
+dest_files=["res://.godot/imported/Rain2.wav-354ab27ef73f60427db2fd9a52231dc5.sample"]
 
 [params]
 

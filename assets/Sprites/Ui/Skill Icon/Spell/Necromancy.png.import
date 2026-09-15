@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bq5cvjv0ev3cq"
-path="res://.godot/imported/Necromancy.png-e96ed09039fc3de36cb89e84ecdee302.ctex"
+path="res://.godot/imported/Necromancy.png-708062ddaea04b5788f0af61cdc54e36.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Spell/Necromancy.png"
-dest_files=["res://.godot/imported/Necromancy.png-e96ed09039fc3de36cb89e84ecdee302.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Spell/Necromancy.png"
+dest_files=["res://.godot/imported/Necromancy.png-708062ddaea04b5788f0af61cdc54e36.ctex"]
 
 [params]
 

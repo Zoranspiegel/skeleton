@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwdcdbmfvibea"
-path="res://.godot/imported/Faceset.png-af9501d5f6e812141348fd040edde38b.ctex"
+path="res://.godot/imported/Faceset.png-a4443ca21c5bd3726c6cc74e6e7c5c15.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Boss/TenguBlue/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-af9501d5f6e812141348fd040edde38b.ctex"]
+source_file="res://assets/Sprites/Actor/Boss/TenguBlue/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-a4443ca21c5bd3726c6cc74e6e7c5c15.ctex"]
 
 [params]
 

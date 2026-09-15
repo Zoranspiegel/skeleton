@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cgt0b77hiuhh"
-path="res://.godot/imported/AmuletDisabled.png-7f616804d8b1c6a3c08af1ca0e43216a.ctex"
+path="res://.godot/imported/AmuletDisabled.png-36f0faa2d26555fd2924dc6eceb85e35.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Items & Weapon/AmuletDisabled.png"
-dest_files=["res://.godot/imported/AmuletDisabled.png-7f616804d8b1c6a3c08af1ca0e43216a.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Items & Weapon/AmuletDisabled.png"
+dest_files=["res://.godot/imported/AmuletDisabled.png-36f0faa2d26555fd2924dc6eceb85e35.ctex"]
 
 [params]
 

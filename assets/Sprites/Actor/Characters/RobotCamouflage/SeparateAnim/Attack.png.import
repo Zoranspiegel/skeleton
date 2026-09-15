@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dax06ldkk5rna"
-path="res://.godot/imported/Attack.png-22bc30243ef50f7d808683a0f5a8e5a6.ctex"
+path="res://.godot/imported/Attack.png-94f83654eaca2601fc5df05aba784f54.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/RobotCamouflage/SeparateAnim/Attack.png"
-dest_files=["res://.godot/imported/Attack.png-22bc30243ef50f7d808683a0f5a8e5a6.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/RobotCamouflage/SeparateAnim/Attack.png"
+dest_files=["res://.godot/imported/Attack.png-94f83654eaca2601fc5df05aba784f54.ctex"]
 
 [params]
 

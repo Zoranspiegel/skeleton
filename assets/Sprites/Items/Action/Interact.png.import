@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dux8ffyorwgl0"
-path="res://.godot/imported/Interact.png-541a58e60e9b834a6625589777c802b0.ctex"
+path="res://.godot/imported/Interact.png-659682891343ea56e047335267b8a21d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Items/Action/Interact.png"
-dest_files=["res://.godot/imported/Interact.png-541a58e60e9b834a6625589777c802b0.ctex"]
+source_file="res://assets/Sprites/Items/Action/Interact.png"
+dest_files=["res://.godot/imported/Interact.png-659682891343ea56e047335267b8a21d.ctex"]
 
 [params]
 

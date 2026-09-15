@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dllakcoqpudb4"
-path="res://.godot/imported/Item.png-01b48ec462d0f92deab1ea33130d3641.ctex"
+path="res://.godot/imported/Item.png-99466d896d426a0bc570bd945ecacbd1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Sultan/SeparateAnim/Item.png"
-dest_files=["res://.godot/imported/Item.png-01b48ec462d0f92deab1ea33130d3641.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Sultan/SeparateAnim/Item.png"
+dest_files=["res://.godot/imported/Item.png-99466d896d426a0bc570bd945ecacbd1.ctex"]
 
 [params]
 

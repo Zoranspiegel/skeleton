@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qih0hma7my5e"
-path="res://.godot/imported/WaterCanon.png-aaee1aabe93626dc2c6c9228e418ebcb.ctex"
+path="res://.godot/imported/WaterCanon.png-4d5d8cd7ae759029f944931ea0d43904.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Spell/WaterCanon.png"
-dest_files=["res://.godot/imported/WaterCanon.png-aaee1aabe93626dc2c6c9228e418ebcb.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Spell/WaterCanon.png"
+dest_files=["res://.godot/imported/WaterCanon.png-4d5d8cd7ae759029f944931ea0d43904.ctex"]
 
 [params]
 

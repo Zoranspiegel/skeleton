@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://coc5por4wvwm3"
-path="res://.godot/imported/Sprite.png-94bcf8b029d3b9d9f3ae67bf03924792.ctex"
+path="res://.godot/imported/Sprite.png-9a5180bcfd8f688a1c256a8fb23be43f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Items/Weapons/Ninjaku/Sprite.png"
-dest_files=["res://.godot/imported/Sprite.png-94bcf8b029d3b9d9f3ae67bf03924792.ctex"]
+source_file="res://assets/Sprites/Items/Weapons/Ninjaku/Sprite.png"
+dest_files=["res://.godot/imported/Sprite.png-9a5180bcfd8f688a1c256a8fb23be43f.ctex"]
 
 [params]
 

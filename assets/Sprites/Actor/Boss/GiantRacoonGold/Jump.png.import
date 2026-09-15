@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0o1m6a5kkv01"
-path="res://.godot/imported/Jump.png-5ca2496ea0a97316cb87f97267b7c804.ctex"
+path="res://.godot/imported/Jump.png-b9bdd73d1cbaccf246b08ac7e67120ef.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Boss/GiantRacoonGold/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-5ca2496ea0a97316cb87f97267b7c804.ctex"]
+source_file="res://assets/Sprites/Actor/Boss/GiantRacoonGold/Jump.png"
+dest_files=["res://.godot/imported/Jump.png-b9bdd73d1cbaccf246b08ac7e67120ef.ctex"]
 
 [params]
 

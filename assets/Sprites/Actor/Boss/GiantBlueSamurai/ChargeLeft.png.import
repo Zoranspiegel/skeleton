@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c20wn5vj2s1s2"
-path="res://.godot/imported/ChargeLeft.png-fb8a21c88ed88575c8cbd307dc8825ce.ctex"
+path="res://.godot/imported/ChargeLeft.png-2a00c4cb3868dec376b24791ebdf7f01.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Boss/GiantBlueSamurai/ChargeLeft.png"
-dest_files=["res://.godot/imported/ChargeLeft.png-fb8a21c88ed88575c8cbd307dc8825ce.ctex"]
+source_file="res://assets/Sprites/Actor/Boss/GiantBlueSamurai/ChargeLeft.png"
+dest_files=["res://.godot/imported/ChargeLeft.png-2a00c4cb3868dec376b24791ebdf7f01.ctex"]
 
 [params]
 

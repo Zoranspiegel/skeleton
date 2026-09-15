@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkm3n56vxocr2"
-path="res://.godot/imported/QuickSand32x32.png-1fe64d8598d9aa85120cd5aa49181375.ctex"
+path="res://.godot/imported/QuickSand32x32.png-88d66f6d47b6933fad6f0f3c8e3e94a6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Backgrounds/Animated/QuickSand/QuickSand32x32.png"
-dest_files=["res://.godot/imported/QuickSand32x32.png-1fe64d8598d9aa85120cd5aa49181375.ctex"]
+source_file="res://assets/Sprites/Backgrounds/Animated/QuickSand/QuickSand32x32.png"
+dest_files=["res://.godot/imported/QuickSand32x32.png-88d66f6d47b6933fad6f0f3c8e3e94a6.ctex"]
 
 [params]
 

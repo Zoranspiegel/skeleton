@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6lsnvvcvdye1"
-path="res://.godot/imported/Faceset.png-96f5662e5a282680c3c765ddf967a91e.ctex"
+path="res://.godot/imported/Faceset.png-768a390d432d4a0cac8f6e3ff6692ec8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Monsters/HeartRed/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-96f5662e5a282680c3c765ddf967a91e.ctex"]
+source_file="res://assets/Sprites/Actor/Monsters/HeartRed/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-768a390d432d4a0cac8f6e3ff6692ec8.ctex"]
 
 [params]
 

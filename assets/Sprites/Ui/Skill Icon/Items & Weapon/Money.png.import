@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b0hd0ag6nmpuk"
-path="res://.godot/imported/Money.png-c240c1e9f2c628d0773be42d66765e48.ctex"
+path="res://.godot/imported/Money.png-52d283251d0b69e51343471e5181a36d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Items & Weapon/Money.png"
-dest_files=["res://.godot/imported/Money.png-c240c1e9f2c628d0773be42d66765e48.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Items & Weapon/Money.png"
+dest_files=["res://.godot/imported/Money.png-52d283251d0b69e51343471e5181a36d.ctex"]
 
 [params]
 

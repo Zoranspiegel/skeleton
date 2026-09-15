@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ddpnxilk4ut3q"
-path="res://.godot/imported/BookWindDisabled.png-4b0a29a8ab263022402eb09493d1b095.ctex"
+path="res://.godot/imported/BookWindDisabled.png-e03013c926280e5efce91fbf2bbc3b9e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Spell/BookWindDisabled.png"
-dest_files=["res://.godot/imported/BookWindDisabled.png-4b0a29a8ab263022402eb09493d1b095.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Spell/BookWindDisabled.png"
+dest_files=["res://.godot/imported/BookWindDisabled.png-e03013c926280e5efce91fbf2bbc3b9e.ctex"]
 
 [params]
 

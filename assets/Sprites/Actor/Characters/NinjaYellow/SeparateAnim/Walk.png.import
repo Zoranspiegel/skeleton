@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhurals042jsj"
-path="res://.godot/imported/Walk.png-fd7969467bca283cb576a88bec5bd268.ctex"
+path="res://.godot/imported/Walk.png-1df8d74ee30b56c321e8a9c6723e38a0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/NinjaYellow/SeparateAnim/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-fd7969467bca283cb576a88bec5bd268.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/NinjaYellow/SeparateAnim/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-1df8d74ee30b56c321e8a9c6723e38a0.ctex"]
 
 [params]
 

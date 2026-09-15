@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpurjles7dv68"
-path="res://.godot/imported/TilesetVillageAbandoned.png-fc064f6ac430c388fbd64a15cad9a8e6.ctex"
+path="res://.godot/imported/TilesetVillageAbandoned.png-4778196411aff2207c4b98843f2df667.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Backgrounds/Tilesets/TilesetVillageAbandoned.png"
-dest_files=["res://.godot/imported/TilesetVillageAbandoned.png-fc064f6ac430c388fbd64a15cad9a8e6.ctex"]
+source_file="res://assets/Sprites/Backgrounds/Tilesets/TilesetVillageAbandoned.png"
+dest_files=["res://.godot/imported/TilesetVillageAbandoned.png-4778196411aff2207c4b98843f2df667.ctex"]
 
 [params]
 

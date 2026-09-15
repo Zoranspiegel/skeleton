@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5oevb1lcm4j7"
-path="res://.godot/imported/Sprite.png-23f622fcf0abbce5b01609737f733300.ctex"
+path="res://.godot/imported/Sprite.png-68bb4cb7aee6f85b652c299d335b5589.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Items/Weapons/Katana/Sprite.png"
-dest_files=["res://.godot/imported/Sprite.png-23f622fcf0abbce5b01609737f733300.ctex"]
+source_file="res://assets/Sprites/Items/Weapons/Katana/Sprite.png"
+dest_files=["res://.godot/imported/Sprite.png-68bb4cb7aee6f85b652c299d335b5589.ctex"]
 
 [params]
 

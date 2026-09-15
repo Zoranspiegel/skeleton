@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qg48apes3cj6"
-path="res://.godot/imported/Cook.png-f55655d63f4393c19997522a61a170a9.ctex"
+path="res://.godot/imported/Cook.png-6973f391a8229445cce588c6018bd4fb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Job & Action/Cook.png"
-dest_files=["res://.godot/imported/Cook.png-f55655d63f4393c19997522a61a170a9.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Job & Action/Cook.png"
+dest_files=["res://.godot/imported/Cook.png-6973f391a8229445cce588c6018bd4fb.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c0l01bn84l4d6"
-path="res://.godot/imported/CounterDisabled.png-b6bb0f85d24fcfae05fad96cc156675d.ctex"
+path="res://.godot/imported/CounterDisabled.png-92ce77a5ad48d0ee7162e4db285b3532.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Spell/CounterDisabled.png"
-dest_files=["res://.godot/imported/CounterDisabled.png-b6bb0f85d24fcfae05fad96cc156675d.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Spell/CounterDisabled.png"
+dest_files=["res://.godot/imported/CounterDisabled.png-92ce77a5ad48d0ee7162e4db285b3532.ctex"]
 
 [params]
 

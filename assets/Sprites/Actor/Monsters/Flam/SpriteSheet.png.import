@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dalnmtmnf5nl1"
-path="res://.godot/imported/SpriteSheet.png-77d471a7f7ff6e7999c36f6836dbe2a9.ctex"
+path="res://.godot/imported/SpriteSheet.png-dba41f5c653905fc69fbc19ccba879ce.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Monsters/Flam/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-77d471a7f7ff6e7999c36f6836dbe2a9.ctex"]
+source_file="res://assets/Sprites/Actor/Monsters/Flam/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-dba41f5c653905fc69fbc19ccba879ce.ctex"]
 
 [params]
 

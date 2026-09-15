@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dr76i34tdv4ow"
-path="res://.godot/imported/OrbFire.png-0e366619cbe1b9b007aa8679e55e35f8.ctex"
+path="res://.godot/imported/OrbFire.png-ff3058babaadb54f4ea262607a0c8e14.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Spell/OrbFire.png"
-dest_files=["res://.godot/imported/OrbFire.png-0e366619cbe1b9b007aa8679e55e35f8.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Spell/OrbFire.png"
+dest_files=["res://.godot/imported/OrbFire.png-ff3058babaadb54f4ea262607a0c8e14.ctex"]
 
 [params]
 

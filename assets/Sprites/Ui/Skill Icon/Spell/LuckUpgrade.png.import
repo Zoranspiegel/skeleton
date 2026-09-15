@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7i554stvvm6s"
-path="res://.godot/imported/LuckUpgrade.png-993a4aba35ec8200624d8735823534c8.ctex"
+path="res://.godot/imported/LuckUpgrade.png-db87e786124b3fff26a2757ee02a0704.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Spell/LuckUpgrade.png"
-dest_files=["res://.godot/imported/LuckUpgrade.png-993a4aba35ec8200624d8735823534c8.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Spell/LuckUpgrade.png"
+dest_files=["res://.godot/imported/LuckUpgrade.png-db87e786124b3fff26a2757ee02a0704.ctex"]
 
 [params]
 

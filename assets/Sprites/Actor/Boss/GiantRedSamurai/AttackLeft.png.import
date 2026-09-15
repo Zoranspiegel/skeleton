@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dscomrswiyvq4"
-path="res://.godot/imported/AttackLeft.png-3e5dc30890f3b33c97326fdb412f7591.ctex"
+path="res://.godot/imported/AttackLeft.png-678b8e270db5cb909480b85629fe92ed.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Boss/GiantRedSamurai/AttackLeft.png"
-dest_files=["res://.godot/imported/AttackLeft.png-3e5dc30890f3b33c97326fdb412f7591.ctex"]
+source_file="res://assets/Sprites/Actor/Boss/GiantRedSamurai/AttackLeft.png"
+dest_files=["res://.godot/imported/AttackLeft.png-678b8e270db5cb909480b85629fe92ed.ctex"]
 
 [params]
 

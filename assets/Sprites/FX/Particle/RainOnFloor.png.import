@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfurmleg3gsod"
-path="res://.godot/imported/RainOnFloor.png-689b9ea4710f51f4eb8cef5665202908.ctex"
+path="res://.godot/imported/RainOnFloor.png-59e2f0395932709b783c1f6a201bd7e6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/FX/Particle/RainOnFloor.png"
-dest_files=["res://.godot/imported/RainOnFloor.png-689b9ea4710f51f4eb8cef5665202908.ctex"]
+source_file="res://assets/Sprites/FX/Particle/RainOnFloor.png"
+dest_files=["res://.godot/imported/RainOnFloor.png-59e2f0395932709b783c1f6a201bd7e6.ctex"]
 
 [params]
 

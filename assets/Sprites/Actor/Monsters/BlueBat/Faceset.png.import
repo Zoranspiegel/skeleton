@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ralxcsh0hdgi"
-path="res://.godot/imported/Faceset.png-23f485db028b931debecab599af274a0.ctex"
+path="res://.godot/imported/Faceset.png-a496d4f86a6a6e7469e407c3a8e22606.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Monsters/BlueBat/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-23f485db028b931debecab599af274a0.ctex"]
+source_file="res://assets/Sprites/Actor/Monsters/BlueBat/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-a496d4f86a6a6e7469e407c3a8e22606.ctex"]
 
 [params]
 

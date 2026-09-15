@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c5juta7bwcxci"
-path="res://.godot/imported/Idle.png-ef9b712889909b0ab940b31f0ae34dc7.ctex"
+path="res://.godot/imported/Idle.png-eb74b89cfbd21de411d035a62c4664c7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/OldMan/SeparateAnim/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-ef9b712889909b0ab940b31f0ae34dc7.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/OldMan/SeparateAnim/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-eb74b89cfbd21de411d035a62c4664c7.ctex"]
 
 [params]
 

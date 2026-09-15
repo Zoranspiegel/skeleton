@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d4f7k7o56h0as"
-path="res://.godot/imported/SpriteSheet.png-19b12d131ec2fc8fa2136e498c03e2e7.ctex"
+path="res://.godot/imported/SpriteSheet.png-3bb4aa11369612baad3d981d8193474f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Villager5/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-19b12d131ec2fc8fa2136e498c03e2e7.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Villager5/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-3bb4aa11369612baad3d981d8193474f.ctex"]
 
 [params]
 

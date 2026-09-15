@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cr8p7h6q6gbn6"
-path="res://.godot/imported/2 - The Cave.ogg-7c82cc71f40b98f010a9f4aa4df451dc.oggvorbisstr"
+path="res://.godot/imported/2 - The Cave.ogg-65975fcf4edf92f863ca43d1e92158cc.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/Musics/2 - The Cave.ogg"
-dest_files=["res://.godot/imported/2 - The Cave.ogg-7c82cc71f40b98f010a9f4aa4df451dc.oggvorbisstr"]
+source_file="res://assets/Audio/Musics/2 - The Cave.ogg"
+dest_files=["res://.godot/imported/2 - The Cave.ogg-65975fcf4edf92f863ca43d1e92158cc.oggvorbisstr"]
 
 [params]
 

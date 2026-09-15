@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0tyhppw1kpqb"
-path="res://.godot/imported/BookPlant.png-1b1f1e9bb31573192a288a3f2459e8fc.ctex"
+path="res://.godot/imported/BookPlant.png-66fe031d6a33ebd52962dd6c095e1726.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Spell/BookPlant.png"
-dest_files=["res://.godot/imported/BookPlant.png-1b1f1e9bb31573192a288a3f2459e8fc.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Spell/BookPlant.png"
+dest_files=["res://.godot/imported/BookPlant.png-66fe031d6a33ebd52962dd6c095e1726.ctex"]
 
 [params]
 

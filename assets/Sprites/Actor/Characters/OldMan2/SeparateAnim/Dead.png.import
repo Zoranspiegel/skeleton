@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bwkf28qtwve5h"
-path="res://.godot/imported/Dead.png-00b5770bc38358f3a06397073e00e5bf.ctex"
+path="res://.godot/imported/Dead.png-f0225f66252b34109b4a3b9b02f4037a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/OldMan2/SeparateAnim/Dead.png"
-dest_files=["res://.godot/imported/Dead.png-00b5770bc38358f3a06397073e00e5bf.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/OldMan2/SeparateAnim/Dead.png"
+dest_files=["res://.godot/imported/Dead.png-f0225f66252b34109b4a3b9b02f4037a.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2il64c2mdvmm"
-path="res://.godot/imported/Idle.png-c2a9846771294f05a81feb7429d296b1.ctex"
+path="res://.godot/imported/Idle.png-170be3e749af5f241d23fe89a9403a3a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/EggGirl/SeparateAnim/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-c2a9846771294f05a81feb7429d296b1.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/EggGirl/SeparateAnim/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-170be3e749af5f241d23fe89a9403a3a.ctex"]
 
 [params]
 

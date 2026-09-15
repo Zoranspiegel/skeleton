@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bhwibe4hx1g3"
-path="res://.godot/imported/Special2.png-faceae37337b1f9dcf9745c041f70e7f.ctex"
+path="res://.godot/imported/Special2.png-ac1098898b997cab0cc012f5e6869753.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Caveman/SeparateAnim/Special2.png"
-dest_files=["res://.godot/imported/Special2.png-faceae37337b1f9dcf9745c041f70e7f.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Caveman/SeparateAnim/Special2.png"
+dest_files=["res://.godot/imported/Special2.png-ac1098898b997cab0cc012f5e6869753.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://du8uod5co76jq"
-path="res://.godot/imported/Dead.png-edb0aaa1e5b80265e72a4d8fe9de7900.ctex"
+path="res://.godot/imported/Dead.png-d909660d1cea7dd3e0086823b164863f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/MaskRacoon/SeparateAnim/Dead.png"
-dest_files=["res://.godot/imported/Dead.png-edb0aaa1e5b80265e72a4d8fe9de7900.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/MaskRacoon/SeparateAnim/Dead.png"
+dest_files=["res://.godot/imported/Dead.png-d909660d1cea7dd3e0086823b164863f.ctex"]
 
 [params]
 

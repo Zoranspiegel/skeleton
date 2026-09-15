@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://k0r1xfgv0pv8"
-path="res://.godot/imported/SpriteInHand.png-a3711f30c9249123ceac10246a85e3d3.ctex"
+path="res://.godot/imported/SpriteInHand.png-9628507bdd08a14d5d78d3441356bb2b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Items/Weapons/Hammer/SpriteInHand.png"
-dest_files=["res://.godot/imported/SpriteInHand.png-a3711f30c9249123ceac10246a85e3d3.ctex"]
+source_file="res://assets/Sprites/Items/Weapons/Hammer/SpriteInHand.png"
+dest_files=["res://.godot/imported/SpriteInHand.png-9628507bdd08a14d5d78d3441356bb2b.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://g01y82c1328h"
-path="res://.godot/imported/SpriteSheet.png-090fb7ddafc19713c89b8d8c54c813e2.ctex"
+path="res://.godot/imported/SpriteSheet.png-c222f50cc8981f321fd9425401e4782c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/SorcererOrange/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-090fb7ddafc19713c89b8d8c54c813e2.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/SorcererOrange/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-c222f50cc8981f321fd9425401e4782c.ctex"]
 
 [params]
 

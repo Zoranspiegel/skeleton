@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://chg406njbpaj0"
-path="res://.godot/imported/Bird.wav-69b2a7509dd22e5fe2abcd639234a4df.sample"
+path="res://.godot/imported/Bird.wav-92850e19741025139d2b52a426d61a4f.sample"
 
 [deps]
 
-source_file="res://Audio/Sounds/Creature/Bird.wav"
-dest_files=["res://.godot/imported/Bird.wav-69b2a7509dd22e5fe2abcd639234a4df.sample"]
+source_file="res://assets/Audio/Sounds/Creature/Bird.wav"
+dest_files=["res://.godot/imported/Bird.wav-92850e19741025139d2b52a426d61a4f.sample"]
 
 [params]
 

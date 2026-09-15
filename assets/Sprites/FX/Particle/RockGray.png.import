@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mrswkomtpfnq"
-path="res://.godot/imported/RockGray.png-e9ae99fe016a6fe9b76f1e08b392f28e.ctex"
+path="res://.godot/imported/RockGray.png-dda2051f3415011bbcb94e1df1f15298.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/FX/Particle/RockGray.png"
-dest_files=["res://.godot/imported/RockGray.png-e9ae99fe016a6fe9b76f1e08b392f28e.ctex"]
+source_file="res://assets/Sprites/FX/Particle/RockGray.png"
+dest_files=["res://.godot/imported/RockGray.png-dda2051f3415011bbcb94e1df1f15298.ctex"]
 
 [params]
 

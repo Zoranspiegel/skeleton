@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://tnmn07m417j8"
-path="res://.godot/imported/SpriteSheet.png-2c62a5e38a2fcaef748ffe08d37e79c3.ctex"
+path="res://.godot/imported/SpriteSheet.png-44495c39576bec4d990d45539f8a0c45.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Tengu/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-2c62a5e38a2fcaef748ffe08d37e79c3.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Tengu/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-44495c39576bec4d990d45539f8a0c45.ctex"]
 
 [params]
 

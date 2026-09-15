@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bsnxwd3mhmi24"
-path="res://.godot/imported/placeholder_legs.png-8442a1be7f64d8a7b3b65b6381a01b3b.ctex"
+path="res://.godot/imported/placeholder_legs.png-1a946a75344e31c5dd9ca891fe05ea3d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Equipment/placeholder_legs.png"
-dest_files=["res://.godot/imported/placeholder_legs.png-8442a1be7f64d8a7b3b65b6381a01b3b.ctex"]
+source_file="res://assets/Sprites/Equipment/placeholder_legs.png"
+dest_files=["res://.godot/imported/placeholder_legs.png-1a946a75344e31c5dd9ca891fe05ea3d.ctex"]
 
 [params]
 

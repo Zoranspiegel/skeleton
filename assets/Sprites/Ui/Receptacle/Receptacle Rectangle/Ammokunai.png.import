@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8jow38ig2bp5"
-path="res://.godot/imported/Ammokunai.png-26ce84fa79791b257f6da816a3ba8be6.ctex"
+path="res://.godot/imported/Ammokunai.png-4f6b48656df8ec0fb316ffebf23deacf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Receptacle/Receptacle Rectangle/Ammokunai.png"
-dest_files=["res://.godot/imported/Ammokunai.png-26ce84fa79791b257f6da816a3ba8be6.ctex"]
+source_file="res://assets/Sprites/Ui/Receptacle/Receptacle Rectangle/Ammokunai.png"
+dest_files=["res://.godot/imported/Ammokunai.png-4f6b48656df8ec0fb316ffebf23deacf.ctex"]
 
 [params]
 

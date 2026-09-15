@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://31de12dq3vmh"
-path="res://.godot/imported/Success3.wav-32ee7cb2ded8256baebbf54fcc9e20c3.sample"
+path="res://.godot/imported/Success3.wav-4c72a7fbef434bba59ee4b27ee92d8e8.sample"
 
 [deps]
 
-source_file="res://Audio/Jingles/Success3.wav"
-dest_files=["res://.godot/imported/Success3.wav-32ee7cb2ded8256baebbf54fcc9e20c3.sample"]
+source_file="res://assets/Audio/Jingles/Success3.wav"
+dest_files=["res://.godot/imported/Success3.wav-4c72a7fbef434bba59ee4b27ee92d8e8.sample"]
 
 [params]
 

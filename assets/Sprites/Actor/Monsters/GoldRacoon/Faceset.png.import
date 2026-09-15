@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://jl1i1kck3wy"
-path="res://.godot/imported/Faceset.png-764346b4ef051c3f95f6fe4837d801b2.ctex"
+path="res://.godot/imported/Faceset.png-fb23b9fcf0ad6a3fce5ad2cb4a639df8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Monsters/GoldRacoon/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-764346b4ef051c3f95f6fe4837d801b2.ctex"]
+source_file="res://assets/Sprites/Actor/Monsters/GoldRacoon/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-fb23b9fcf0ad6a3fce5ad2cb4a639df8.ctex"]
 
 [params]
 

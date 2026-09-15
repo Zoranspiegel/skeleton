@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d4ni0p4pkwvxg"
-path="res://.godot/imported/Jump.png-f2cd5c87a020ff6a5afa055754a9d39e.ctex"
+path="res://.godot/imported/Jump.png-f9e13a919e33c8c954c7a249ee75ef3e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/NinjaRed2/SeparateAnim/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-f2cd5c87a020ff6a5afa055754a9d39e.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/NinjaRed2/SeparateAnim/Jump.png"
+dest_files=["res://.godot/imported/Jump.png-f9e13a919e33c8c954c7a249ee75ef3e.ctex"]
 
 [params]
 

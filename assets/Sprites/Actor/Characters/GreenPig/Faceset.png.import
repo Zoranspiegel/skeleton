@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cy50vdtamc06m"
-path="res://.godot/imported/Faceset.png-d9348ebf54b5925b0487c6c50d82bd81.ctex"
+path="res://.godot/imported/Faceset.png-ed97739feb8db5a2dc967c1fbbedbcc2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/GreenPig/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-d9348ebf54b5925b0487c6c50d82bd81.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/GreenPig/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-ed97739feb8db5a2dc967c1fbbedbcc2.ctex"]
 
 [params]
 

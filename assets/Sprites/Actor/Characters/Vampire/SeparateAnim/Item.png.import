@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dfimjm58a3phm"
-path="res://.godot/imported/Item.png-520c9950cf36c5a385c54c8b3a6fc067.ctex"
+path="res://.godot/imported/Item.png-5887693fa813e94606b21634512582b9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Vampire/SeparateAnim/Item.png"
-dest_files=["res://.godot/imported/Item.png-520c9950cf36c5a385c54c8b3a6fc067.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Vampire/SeparateAnim/Item.png"
+dest_files=["res://.godot/imported/Item.png-5887693fa813e94606b21634512582b9.ctex"]
 
 [params]
 

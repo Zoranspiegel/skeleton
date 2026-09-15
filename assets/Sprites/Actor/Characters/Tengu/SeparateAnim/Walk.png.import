@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cysmouj1n1ccb"
-path="res://.godot/imported/Walk.png-d4c557ecd6ee24772a317889edb96b58.ctex"
+path="res://.godot/imported/Walk.png-f509863d8b615853faaeaba317b22f98.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Tengu/SeparateAnim/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-d4c557ecd6ee24772a317889edb96b58.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Tengu/SeparateAnim/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-f509863d8b615853faaeaba317b22f98.ctex"]
 
 [params]
 

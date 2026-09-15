@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1r7yvxyfe46j"
-path="res://.godot/imported/SpriteSheetRock.png-ccd36840e0214e470a489ee617206d69.ctex"
+path="res://.godot/imported/SpriteSheetRock.png-d524df7ae331da214f2a42d2a8eb6e2f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/FX/Projectile/SpriteSheetRock.png"
-dest_files=["res://.godot/imported/SpriteSheetRock.png-ccd36840e0214e470a489ee617206d69.ctex"]
+source_file="res://assets/Sprites/FX/Projectile/SpriteSheetRock.png"
+dest_files=["res://.godot/imported/SpriteSheetRock.png-d524df7ae331da214f2a42d2a8eb6e2f.ctex"]
 
 [params]
 

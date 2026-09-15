@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://choehivpd1o0g"
-path="res://.godot/imported/TeaLeaf.png-d8f0482c50cf76a9f256e883e10ea846.ctex"
+path="res://.godot/imported/TeaLeaf.png-d5b089c2d036f711d82eb1cec875e771.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Items/Food/TeaLeaf.png"
-dest_files=["res://.godot/imported/TeaLeaf.png-d8f0482c50cf76a9f256e883e10ea846.ctex"]
+source_file="res://assets/Sprites/Items/Food/TeaLeaf.png"
+dest_files=["res://.godot/imported/TeaLeaf.png-d5b089c2d036f711d82eb1cec875e771.ctex"]
 
 [params]
 

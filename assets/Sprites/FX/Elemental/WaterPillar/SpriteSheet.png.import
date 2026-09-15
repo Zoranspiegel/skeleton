@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bfobmnj7fwago"
-path="res://.godot/imported/SpriteSheet.png-246009544f4f9ce0e9327992e3b1b2e0.ctex"
+path="res://.godot/imported/SpriteSheet.png-18088e00615d22de82e36f45f0039abd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/FX/Elemental/WaterPillar/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-246009544f4f9ce0e9327992e3b1b2e0.ctex"]
+source_file="res://assets/Sprites/FX/Elemental/WaterPillar/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-18088e00615d22de82e36f45f0039abd.ctex"]
 
 [params]
 

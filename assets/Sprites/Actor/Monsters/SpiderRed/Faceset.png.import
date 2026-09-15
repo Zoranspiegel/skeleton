@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://br3r6b48flubn"
-path="res://.godot/imported/Faceset.png-58da7c2c4c99e6aaf4ab82bff5b35c55.ctex"
+path="res://.godot/imported/Faceset.png-8f78cd7fb990dbfcf406fc77b655a164.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Monsters/SpiderRed/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-58da7c2c4c99e6aaf4ab82bff5b35c55.ctex"]
+source_file="res://assets/Sprites/Actor/Monsters/SpiderRed/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-8f78cd7fb990dbfcf406fc77b655a164.ctex"]
 
 [params]
 

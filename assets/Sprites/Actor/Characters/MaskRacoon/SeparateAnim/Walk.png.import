@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bghmtnf0ut74o"
-path="res://.godot/imported/Walk.png-0c764d2184f0aafb835181406a8213d1.ctex"
+path="res://.godot/imported/Walk.png-ebdd0a2b7d0a1507683d6ea83b513670.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/MaskRacoon/SeparateAnim/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-0c764d2184f0aafb835181406a8213d1.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/MaskRacoon/SeparateAnim/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-ebdd0a2b7d0a1507683d6ea83b513670.ctex"]
 
 [params]
 

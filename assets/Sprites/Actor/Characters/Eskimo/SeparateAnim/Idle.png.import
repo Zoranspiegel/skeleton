@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxvl1eu5k2fkx"
-path="res://.godot/imported/Idle.png-95c747f391f6d61d3929d4d83615089e.ctex"
+path="res://.godot/imported/Idle.png-3cfd5c464a72f1f99ee427264d244359.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Eskimo/SeparateAnim/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-95c747f391f6d61d3929d4d83615089e.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Eskimo/SeparateAnim/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-3cfd5c464a72f1f99ee427264d244359.ctex"]
 
 [params]
 

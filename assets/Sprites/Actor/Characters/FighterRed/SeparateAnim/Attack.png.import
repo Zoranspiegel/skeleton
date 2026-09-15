@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dvdliqbwrd6dg"
-path="res://.godot/imported/Attack.png-c33222d1619c35572d318b47ab2c2c8f.ctex"
+path="res://.godot/imported/Attack.png-8629c9c8b7e9557a8edd648944e125db.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/FighterRed/SeparateAnim/Attack.png"
-dest_files=["res://.godot/imported/Attack.png-c33222d1619c35572d318b47ab2c2c8f.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/FighterRed/SeparateAnim/Attack.png"
+dest_files=["res://.godot/imported/Attack.png-8629c9c8b7e9557a8edd648944e125db.ctex"]
 
 [params]
 

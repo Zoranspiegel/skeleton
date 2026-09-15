@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://de2d7ac1yxjun"
-path="res://.godot/imported/MagicWeapon.png-b5f49b88d76ced79d71b0726dd972dfb.ctex"
+path="res://.godot/imported/MagicWeapon.png-3702a1d80bd98d34421fac8ac4866d54.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Spell/MagicWeapon.png"
-dest_files=["res://.godot/imported/MagicWeapon.png-b5f49b88d76ced79d71b0726dd972dfb.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Spell/MagicWeapon.png"
+dest_files=["res://.godot/imported/MagicWeapon.png-3702a1d80bd98d34421fac8ac4866d54.ctex"]
 
 [params]
 

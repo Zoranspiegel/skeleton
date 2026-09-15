@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkt7pxb0tc6oe"
-path="res://.godot/imported/SilverKey.png-90d3b9c89060f1f73372abdbd1c31440.ctex"
+path="res://.godot/imported/SilverKey.png-ccdc66ef8e647eff7ed568770c30cfa3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Items/Treasure/SilverKey.png"
-dest_files=["res://.godot/imported/SilverKey.png-90d3b9c89060f1f73372abdbd1c31440.ctex"]
+source_file="res://assets/Sprites/Items/Treasure/SilverKey.png"
+dest_files=["res://.godot/imported/SilverKey.png-ccdc66ef8e647eff7ed568770c30cfa3.ctex"]
 
 [params]
 

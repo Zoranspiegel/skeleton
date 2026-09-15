@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bc501qea3bkx5"
-path="res://.godot/imported/BarMithril.png-7c13ad84ff8fd358e5e5e3eddc62bb2e.ctex"
+path="res://.godot/imported/BarMithril.png-a2ebdf11e9970eb5a1779a251aa911d2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Items/Resource/BarMithril.png"
-dest_files=["res://.godot/imported/BarMithril.png-7c13ad84ff8fd358e5e5e3eddc62bb2e.ctex"]
+source_file="res://assets/Sprites/Items/Resource/BarMithril.png"
+dest_files=["res://.godot/imported/BarMithril.png-a2ebdf11e9970eb5a1779a251aa911d2.ctex"]
 
 [params]
 

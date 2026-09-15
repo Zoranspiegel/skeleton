@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dpb0muqsfhvyx"
-path="res://.godot/imported/GoldCup.png-b191f06eedd7529ba1be6f43605c810e.ctex"
+path="res://.godot/imported/GoldCup.png-dd919f3b4cbe53ee3170a1194872ac77.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Items/Treasure/GoldCup.png"
-dest_files=["res://.godot/imported/GoldCup.png-b191f06eedd7529ba1be6f43605c810e.ctex"]
+source_file="res://assets/Sprites/Items/Treasure/GoldCup.png"
+dest_files=["res://.godot/imported/GoldCup.png-dd919f3b4cbe53ee3170a1194872ac77.ctex"]
 
 [params]
 

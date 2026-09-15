@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bdkpueah7sfpx"
-path="res://.godot/imported/Special2.png-82cbd7bb446d65dca78998ae5bd63c64.ctex"
+path="res://.godot/imported/Special2.png-1030b5fe4126d586d0f7664ce0dc2d5e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/MaskRacoon/SeparateAnim/Special2.png"
-dest_files=["res://.godot/imported/Special2.png-82cbd7bb446d65dca78998ae5bd63c64.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/MaskRacoon/SeparateAnim/Special2.png"
+dest_files=["res://.godot/imported/Special2.png-1030b5fe4126d586d0f7664ce0dc2d5e.ctex"]
 
 [params]
 

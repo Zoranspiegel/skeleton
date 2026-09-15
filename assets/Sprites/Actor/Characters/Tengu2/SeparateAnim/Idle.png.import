@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dv1vgb8mvctdg"
-path="res://.godot/imported/Idle.png-7966f3ecf566cc9ff4cba83655f895da.ctex"
+path="res://.godot/imported/Idle.png-31a78141ca8e3cdcec0290d614015d11.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Tengu2/SeparateAnim/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-7966f3ecf566cc9ff4cba83655f895da.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Tengu2/SeparateAnim/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-31a78141ca8e3cdcec0290d614015d11.ctex"]
 
 [params]
 

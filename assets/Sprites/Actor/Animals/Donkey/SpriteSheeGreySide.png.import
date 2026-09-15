@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bx30ymapig3q8"
-path="res://.godot/imported/SpriteSheeGreySide.png-a31c883749246262cf5d2a41052176c5.ctex"
+path="res://.godot/imported/SpriteSheeGreySide.png-30472c08cc24485656488ee5496061a7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Animals/Donkey/SpriteSheeGreySide.png"
-dest_files=["res://.godot/imported/SpriteSheeGreySide.png-a31c883749246262cf5d2a41052176c5.ctex"]
+source_file="res://assets/Sprites/Actor/Animals/Donkey/SpriteSheeGreySide.png"
+dest_files=["res://.godot/imported/SpriteSheeGreySide.png-30472c08cc24485656488ee5496061a7.ctex"]
 
 [params]
 

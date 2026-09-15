@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ceejpllk0qvl"
-path="res://.godot/imported/KeySpace.png-59c25f35bd82e5a007802fd83eaa657e.ctex"
+path="res://.godot/imported/KeySpace.png-aee5c1992c20f64f20e046026b95ca53.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Input/Keyboard/KeySpace.png"
-dest_files=["res://.godot/imported/KeySpace.png-59c25f35bd82e5a007802fd83eaa657e.ctex"]
+source_file="res://assets/Sprites/Ui/Input/Keyboard/KeySpace.png"
+dest_files=["res://.godot/imported/KeySpace.png-aee5c1992c20f64f20e046026b95ca53.ctex"]
 
 [params]
 

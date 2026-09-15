@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpbn2f2y037qq"
-path="res://.godot/imported/LifeBarMiniUnder.png-de0376019b6f67012fb0f3d55b2d9dd5.ctex"
+path="res://.godot/imported/LifeBarMiniUnder.png-7c139946dd68b2e2433683c59d8aad7f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Receptacle/LifeBarMiniUnder.png"
-dest_files=["res://.godot/imported/LifeBarMiniUnder.png-de0376019b6f67012fb0f3d55b2d9dd5.ctex"]
+source_file="res://assets/Sprites/Ui/Receptacle/LifeBarMiniUnder.png"
+dest_files=["res://.godot/imported/LifeBarMiniUnder.png-7c139946dd68b2e2433683c59d8aad7f.ctex"]
 
 [params]
 

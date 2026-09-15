@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ckimanf54bp8v"
-path="res://.godot/imported/Charge.png-1f6e964a08702e6d0adf88b61c144c9e.ctex"
+path="res://.godot/imported/Charge.png-ae2e3910e71be63d3cfd3ecca4c0af7c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Boss/GiantFrog/Charge.png"
-dest_files=["res://.godot/imported/Charge.png-1f6e964a08702e6d0adf88b61c144c9e.ctex"]
+source_file="res://assets/Sprites/Actor/Boss/GiantFrog/Charge.png"
+dest_files=["res://.godot/imported/Charge.png-ae2e3910e71be63d3cfd3ecca4c0af7c.ctex"]
 
 [params]
 

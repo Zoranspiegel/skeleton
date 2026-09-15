@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://caw0thfxfwih4"
-path="res://.godot/imported/KeyTab.png-026b2b992dd022616c7f3fe0ccd17274.ctex"
+path="res://.godot/imported/KeyTab.png-b331b0721d33b7c2c3a050eee85c444f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Input/Keyboard/KeyTab.png"
-dest_files=["res://.godot/imported/KeyTab.png-026b2b992dd022616c7f3fe0ccd17274.ctex"]
+source_file="res://assets/Sprites/Ui/Input/Keyboard/KeyTab.png"
+dest_files=["res://.godot/imported/KeyTab.png-b331b0721d33b7c2c3a050eee85c444f.ctex"]
 
 [params]
 

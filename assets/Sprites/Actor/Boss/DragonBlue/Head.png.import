@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://df3kei6mn7n1p"
-path="res://.godot/imported/Head.png-591563efacd95c8207989debd0c11b9d.ctex"
+path="res://.godot/imported/Head.png-6ce5c6488fb2f318ef62afeaf27c08e2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Boss/DragonBlue/Head.png"
-dest_files=["res://.godot/imported/Head.png-591563efacd95c8207989debd0c11b9d.ctex"]
+source_file="res://assets/Sprites/Actor/Boss/DragonBlue/Head.png"
+dest_files=["res://.godot/imported/Head.png-6ce5c6488fb2f318ef62afeaf27c08e2.ctex"]
 
 [params]
 

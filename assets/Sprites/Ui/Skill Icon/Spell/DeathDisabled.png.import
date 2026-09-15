@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cb0r4j57hagxg"
-path="res://.godot/imported/DeathDisabled.png-e8f544d36b99b1fe634378547107fb9f.ctex"
+path="res://.godot/imported/DeathDisabled.png-db7e80a47921546e3a11da50322621ca.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Spell/DeathDisabled.png"
-dest_files=["res://.godot/imported/DeathDisabled.png-e8f544d36b99b1fe634378547107fb9f.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Spell/DeathDisabled.png"
+dest_files=["res://.godot/imported/DeathDisabled.png-db7e80a47921546e3a11da50322621ca.ctex"]
 
 [params]
 

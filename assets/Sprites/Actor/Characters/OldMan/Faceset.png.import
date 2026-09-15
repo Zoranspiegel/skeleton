@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7eclsekh7b8l"
-path="res://.godot/imported/Faceset.png-767f9dd5357e82b97cc7211c87091b18.ctex"
+path="res://.godot/imported/Faceset.png-59b1b0984a7183b90a771f8f150a4e0b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/OldMan/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-767f9dd5357e82b97cc7211c87091b18.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/OldMan/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-59b1b0984a7183b90a771f8f150a4e0b.ctex"]
 
 [params]
 

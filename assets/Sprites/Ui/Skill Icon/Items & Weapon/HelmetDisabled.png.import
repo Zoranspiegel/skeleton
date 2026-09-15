@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6q3wekvfv83r"
-path="res://.godot/imported/HelmetDisabled.png-2975d482d04edbbea46fc5d158f58091.ctex"
+path="res://.godot/imported/HelmetDisabled.png-9659ee872e0d2f1be326e6606906e24a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Items & Weapon/HelmetDisabled.png"
-dest_files=["res://.godot/imported/HelmetDisabled.png-2975d482d04edbbea46fc5d158f58091.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Items & Weapon/HelmetDisabled.png"
+dest_files=["res://.godot/imported/HelmetDisabled.png-9659ee872e0d2f1be326e6606906e24a.ctex"]
 
 [params]
 

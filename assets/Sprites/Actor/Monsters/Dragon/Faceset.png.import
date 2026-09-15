@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d04eaylkdovf7"
-path="res://.godot/imported/Faceset.png-930aece0641ce405164fa0591a3550c6.ctex"
+path="res://.godot/imported/Faceset.png-3f0017dd5043b146bc06043f4b755f48.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Monsters/Dragon/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-930aece0641ce405164fa0591a3550c6.ctex"]
+source_file="res://assets/Sprites/Actor/Monsters/Dragon/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-3f0017dd5043b146bc06043f4b755f48.ctex"]
 
 [params]
 

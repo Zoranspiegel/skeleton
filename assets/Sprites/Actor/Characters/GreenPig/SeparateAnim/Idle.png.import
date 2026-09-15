@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c07jpoyu1asiv"
-path="res://.godot/imported/Idle.png-0fa29377ab2327eb04c7103cd2c09ee1.ctex"
+path="res://.godot/imported/Idle.png-1edc78d718d03c982940a80791f64129.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/GreenPig/SeparateAnim/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-0fa29377ab2327eb04c7103cd2c09ee1.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/GreenPig/SeparateAnim/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-1edc78d718d03c982940a80791f64129.ctex"]
 
 [params]
 

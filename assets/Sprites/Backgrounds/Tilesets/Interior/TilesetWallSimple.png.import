@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://itw808p2gbxb"
-path="res://.godot/imported/TilesetWallSimple.png-c5b53ebf448553ebf91da95a33680b03.ctex"
+path="res://.godot/imported/TilesetWallSimple.png-e35ce27c3ae1d0a2174e62d5f85428a0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Backgrounds/Tilesets/Interior/TilesetWallSimple.png"
-dest_files=["res://.godot/imported/TilesetWallSimple.png-c5b53ebf448553ebf91da95a33680b03.ctex"]
+source_file="res://assets/Sprites/Backgrounds/Tilesets/Interior/TilesetWallSimple.png"
+dest_files=["res://.godot/imported/TilesetWallSimple.png-e35ce27c3ae1d0a2174e62d5f85428a0.ctex"]
 
 [params]
 

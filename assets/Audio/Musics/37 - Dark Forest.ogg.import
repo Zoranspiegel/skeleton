@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cyni80cmmbyme"
-path="res://.godot/imported/37 - Dark Forest.ogg-183a1a63b22e4e84f6f8410356af9044.oggvorbisstr"
+path="res://.godot/imported/37 - Dark Forest.ogg-8a5cca2ef863faa7e2a42b86faaac726.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/Musics/37 - Dark Forest.ogg"
-dest_files=["res://.godot/imported/37 - Dark Forest.ogg-183a1a63b22e4e84f6f8410356af9044.oggvorbisstr"]
+source_file="res://assets/Audio/Musics/37 - Dark Forest.ogg"
+dest_files=["res://.godot/imported/37 - Dark Forest.ogg-8a5cca2ef863faa7e2a42b86faaac726.oggvorbisstr"]
 
 [params]
 

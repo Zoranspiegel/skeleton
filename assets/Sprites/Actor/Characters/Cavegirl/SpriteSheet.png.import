@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2o3w7e65kjat"
-path="res://.godot/imported/SpriteSheet.png-67823f5e132a53299f81247ddec53023.ctex"
+path="res://.godot/imported/SpriteSheet.png-f745603388dd1f0ff479588f51a21c8c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Cavegirl/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-67823f5e132a53299f81247ddec53023.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Cavegirl/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-f745603388dd1f0ff479588f51a21c8c.ctex"]
 
 [params]
 

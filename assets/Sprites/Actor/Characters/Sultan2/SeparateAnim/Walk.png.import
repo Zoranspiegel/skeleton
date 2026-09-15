@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5r1d3uvk32ar"
-path="res://.godot/imported/Walk.png-6a871675259d8c7a4ad903697db3eaee.ctex"
+path="res://.godot/imported/Walk.png-1f5f33c3ca7d07f785322650529116e9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Sultan2/SeparateAnim/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-6a871675259d8c7a4ad903697db3eaee.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Sultan2/SeparateAnim/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-1f5f33c3ca7d07f785322650529116e9.ctex"]
 
 [params]
 

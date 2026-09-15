@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cbvduuxjus8fc"
-path="res://.godot/imported/SpriteSheet.png-400700a5dac6925a9b8fe63c9ca74d81.ctex"
+path="res://.godot/imported/SpriteSheet.png-446c063f3e356471cd8c7392c29c0551.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Monsters/Axolot/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-400700a5dac6925a9b8fe63c9ca74d81.ctex"]
+source_file="res://assets/Sprites/Actor/Monsters/Axolot/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-446c063f3e356471cd8c7392c29c0551.ctex"]
 
 [params]
 

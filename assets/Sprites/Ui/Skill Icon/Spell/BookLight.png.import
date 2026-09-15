@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bw51jqsm75nvn"
-path="res://.godot/imported/BookLight.png-ec84a29aa2f66ea1d64e5f098cdda572.ctex"
+path="res://.godot/imported/BookLight.png-3a92d902720605b22ab3778c7bfc933d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Spell/BookLight.png"
-dest_files=["res://.godot/imported/BookLight.png-ec84a29aa2f66ea1d64e5f098cdda572.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Spell/BookLight.png"
+dest_files=["res://.godot/imported/BookLight.png-3a92d902720605b22ab3778c7bfc933d.ctex"]
 
 [params]
 

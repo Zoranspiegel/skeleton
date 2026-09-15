@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dqobohvk7gpf1"
-path="res://.godot/imported/Faceset.png-16f54cf1b4d0e7a452a9228346fe2a3f.ctex"
+path="res://.godot/imported/Faceset.png-3bbaa0c1ba706a31751229167cae0e5e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/NinjaBomb/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-16f54cf1b4d0e7a452a9228346fe2a3f.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/NinjaBomb/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-3bbaa0c1ba706a31751229167cae0e5e.ctex"]
 
 [params]
 

@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://j4ros7bud4rw"
-path="res://.godot/imported/Slash.wav-370ae8432c3ff0f84ad7b9df2921dc6f.sample"
+path="res://.godot/imported/Slash.wav-f5768989daf1a0339f929997d1f549d9.sample"
 
 [deps]
 
-source_file="res://Audio/Sounds/Whoosh & Slash/Slash.wav"
-dest_files=["res://.godot/imported/Slash.wav-370ae8432c3ff0f84ad7b9df2921dc6f.sample"]
+source_file="res://assets/Audio/Sounds/Whoosh & Slash/Slash.wav"
+dest_files=["res://.godot/imported/Slash.wav-f5768989daf1a0339f929997d1f549d9.sample"]
 
 [params]
 

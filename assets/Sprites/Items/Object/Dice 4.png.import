@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0mj45mvxmkmy"
-path="res://.godot/imported/Dice 4.png-9d029c240806364a90c0a2e74e3a127f.ctex"
+path="res://.godot/imported/Dice 4.png-4097345e18f15bc29c191f5c08e30073.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Items/Object/Dice 4.png"
-dest_files=["res://.godot/imported/Dice 4.png-9d029c240806364a90c0a2e74e3a127f.ctex"]
+source_file="res://assets/Sprites/Items/Object/Dice 4.png"
+dest_files=["res://.godot/imported/Dice 4.png-4097345e18f15bc29c191f5c08e30073.ctex"]
 
 [params]
 

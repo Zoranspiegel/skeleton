@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cyuhp43hpjsk4"
-path="res://.godot/imported/Jump.png-39a9b93cc62adb7ed3d7b551709c8d22.ctex"
+path="res://.godot/imported/Jump.png-ac0a34480c4c9f8552848cd2580e1994.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/OldMan3/SeparateAnim/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-39a9b93cc62adb7ed3d7b551709c8d22.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/OldMan3/SeparateAnim/Jump.png"
+dest_files=["res://.godot/imported/Jump.png-ac0a34480c4c9f8552848cd2580e1994.ctex"]
 
 [params]
 

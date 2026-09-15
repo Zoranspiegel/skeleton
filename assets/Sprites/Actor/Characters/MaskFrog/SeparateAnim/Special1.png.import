@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://72q44iwapg2t"
-path="res://.godot/imported/Special1.png-d165f10c54e724e524159b96cae83e24.ctex"
+path="res://.godot/imported/Special1.png-d2966f32c3e709ad3ec900d0c83a9c40.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/MaskFrog/SeparateAnim/Special1.png"
-dest_files=["res://.godot/imported/Special1.png-d165f10c54e724e524159b96cae83e24.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/MaskFrog/SeparateAnim/Special1.png"
+dest_files=["res://.godot/imported/Special1.png-d2966f32c3e709ad3ec900d0c83a9c40.ctex"]
 
 [params]
 

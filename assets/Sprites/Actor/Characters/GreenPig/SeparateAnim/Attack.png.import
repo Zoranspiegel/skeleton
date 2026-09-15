@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4wp5krufhwsn"
-path="res://.godot/imported/Attack.png-ae8dcd2d498fae6616ef3f71b23e49df.ctex"
+path="res://.godot/imported/Attack.png-5ff9a443da8431975d245ee0d4994639.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/GreenPig/SeparateAnim/Attack.png"
-dest_files=["res://.godot/imported/Attack.png-ae8dcd2d498fae6616ef3f71b23e49df.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/GreenPig/SeparateAnim/Attack.png"
+dest_files=["res://.godot/imported/Attack.png-5ff9a443da8431975d245ee0d4994639.ctex"]
 
 [params]
 

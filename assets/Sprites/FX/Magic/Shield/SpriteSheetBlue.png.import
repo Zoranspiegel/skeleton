@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d37afti4kj14y"
-path="res://.godot/imported/SpriteSheetBlue.png-40443e35ae863a1e384bdff5533c7602.ctex"
+path="res://.godot/imported/SpriteSheetBlue.png-56f2cf6047dd3690b16cacc235200666.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/FX/Magic/Shield/SpriteSheetBlue.png"
-dest_files=["res://.godot/imported/SpriteSheetBlue.png-40443e35ae863a1e384bdff5533c7602.ctex"]
+source_file="res://assets/Sprites/FX/Magic/Shield/SpriteSheetBlue.png"
+dest_files=["res://.godot/imported/SpriteSheetBlue.png-56f2cf6047dd3690b16cacc235200666.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gb8ugyvoeqct"
-path="res://.godot/imported/Faceset.png-446a0e1803ddfb5b43974e57069269db.ctex"
+path="res://.godot/imported/Faceset.png-9aee67a3ccaa9e1c4b65a1fc2b3b16f8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Knight/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-446a0e1803ddfb5b43974e57069269db.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Knight/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-9aee67a3ccaa9e1c4b65a1fc2b3b16f8.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ebli12rpc5s4"
-path="res://.godot/imported/PunchDisabled.png-e5f4b806e3cfe3bb04b8f0fdb16e2b8b.ctex"
+path="res://.godot/imported/PunchDisabled.png-10f3b4b5efdfce3f91a6010f3d1c47fe.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Job & Action/PunchDisabled.png"
-dest_files=["res://.godot/imported/PunchDisabled.png-e5f4b806e3cfe3bb04b8f0fdb16e2b8b.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Job & Action/PunchDisabled.png"
+dest_files=["res://.godot/imported/PunchDisabled.png-10f3b4b5efdfce3f91a6010f3d1c47fe.ctex"]
 
 [params]
 

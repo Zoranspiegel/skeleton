@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://8v5u6gkk3af5"
-path="res://.godot/imported/DPadLeft.png-b8edf8ecc4b4bad6e64ad8f19d9e7b7d.ctex"
+path="res://.godot/imported/DPadLeft.png-a48211824e41ff843e09399f38a777e9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Input/Gamepad/DPadLeft.png"
-dest_files=["res://.godot/imported/DPadLeft.png-b8edf8ecc4b4bad6e64ad8f19d9e7b7d.ctex"]
+source_file="res://assets/Sprites/Ui/Input/Gamepad/DPadLeft.png"
+dest_files=["res://.godot/imported/DPadLeft.png-a48211824e41ff843e09399f38a777e9.ctex"]
 
 [params]
 

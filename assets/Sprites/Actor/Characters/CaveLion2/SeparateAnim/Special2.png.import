@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://27mxit61hkku"
-path="res://.godot/imported/Special2.png-58a8cb442ae18c2c9d2bacaec581e344.ctex"
+path="res://.godot/imported/Special2.png-90ca2be41c08fdfacb47ed397241dfb3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/CaveLion2/SeparateAnim/Special2.png"
-dest_files=["res://.godot/imported/Special2.png-58a8cb442ae18c2c9d2bacaec581e344.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/CaveLion2/SeparateAnim/Special2.png"
+dest_files=["res://.godot/imported/Special2.png-90ca2be41c08fdfacb47ed397241dfb3.ctex"]
 
 [params]
 

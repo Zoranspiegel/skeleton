@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djrlqq50nqswp"
-path="res://.godot/imported/Faceset.png-e360f3ec0fa2f0d28adaadb1031eddfd.ctex"
+path="res://.godot/imported/Faceset.png-c15ca0d5ba99bbaae4ae9d971fef382f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Monsters/KappaGreen/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-e360f3ec0fa2f0d28adaadb1031eddfd.ctex"]
+source_file="res://assets/Sprites/Actor/Monsters/KappaGreen/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-c15ca0d5ba99bbaae4ae9d971fef382f.ctex"]
 
 [params]
 

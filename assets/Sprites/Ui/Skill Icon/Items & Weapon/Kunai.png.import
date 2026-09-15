@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ct4ipm7qta4kp"
-path="res://.godot/imported/Kunai.png-5ad322d8b337c9af4139b7f7ab3b2ddd.ctex"
+path="res://.godot/imported/Kunai.png-5239db34e94420e220edbe5fa8465be9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Items & Weapon/Kunai.png"
-dest_files=["res://.godot/imported/Kunai.png-5ad322d8b337c9af4139b7f7ab3b2ddd.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Items & Weapon/Kunai.png"
+dest_files=["res://.godot/imported/Kunai.png-5239db34e94420e220edbe5fa8465be9.ctex"]
 
 [params]
 

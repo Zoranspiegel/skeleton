@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://df87qruug5hlr"
-path="res://.godot/imported/MineDisabled.png-73557e2e017a9129f653333ee5414d10.ctex"
+path="res://.godot/imported/MineDisabled.png-8bbda118155da96e477867f4126e73e0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Job & Action/MineDisabled.png"
-dest_files=["res://.godot/imported/MineDisabled.png-73557e2e017a9129f653333ee5414d10.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Job & Action/MineDisabled.png"
+dest_files=["res://.godot/imported/MineDisabled.png-8bbda118155da96e477867f4126e73e0.ctex"]
 
 [params]
 

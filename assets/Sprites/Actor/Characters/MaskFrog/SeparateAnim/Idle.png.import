@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bqg5i0f7du6r1"
-path="res://.godot/imported/Idle.png-6194c0f7af2b5c57c8a23d17f4b4cac6.ctex"
+path="res://.godot/imported/Idle.png-d5c7a3b8fe8a89d21ac67f9a53ba7fc1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/MaskFrog/SeparateAnim/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-6194c0f7af2b5c57c8a23d17f4b4cac6.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/MaskFrog/SeparateAnim/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-d5c7a3b8fe8a89d21ac67f9a53ba7fc1.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dkugj50a3q0lu"
-path="res://.godot/imported/FortuneCookie.png-6026b2105a4418adc398e3c581d6727f.ctex"
+path="res://.godot/imported/FortuneCookie.png-b568802a8b12f1aa913be370ae3e3b58.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Items/Food/FortuneCookie.png"
-dest_files=["res://.godot/imported/FortuneCookie.png-6026b2105a4418adc398e3c581d6727f.ctex"]
+source_file="res://assets/Sprites/Items/Food/FortuneCookie.png"
+dest_files=["res://.godot/imported/FortuneCookie.png-b568802a8b12f1aa913be370ae3e3b58.ctex"]
 
 [params]
 

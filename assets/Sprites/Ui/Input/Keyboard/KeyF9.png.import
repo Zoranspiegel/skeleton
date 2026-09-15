@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c4k521cm1g4le"
-path="res://.godot/imported/KeyF9.png-530d6ace8eab1009e624cd508238f826.ctex"
+path="res://.godot/imported/KeyF9.png-feeb55f2ac7e706e9ce10cdf1aadcca9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Input/Keyboard/KeyF9.png"
-dest_files=["res://.godot/imported/KeyF9.png-530d6ace8eab1009e624cd508238f826.ctex"]
+source_file="res://assets/Sprites/Ui/Input/Keyboard/KeyF9.png"
+dest_files=["res://.godot/imported/KeyF9.png-feeb55f2ac7e706e9ce10cdf1aadcca9.ctex"]
 
 [params]
 

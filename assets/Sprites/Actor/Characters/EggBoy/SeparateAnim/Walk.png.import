@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://baq8ob308nm2a"
-path="res://.godot/imported/Walk.png-f47eab5b9402f5d6e4783cc9e4d7d98b.ctex"
+path="res://.godot/imported/Walk.png-7d75b25e93113e448da7409b3de57bb8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/EggBoy/SeparateAnim/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-f47eab5b9402f5d6e4783cc9e4d7d98b.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/EggBoy/SeparateAnim/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-7d75b25e93113e448da7409b3de57bb8.ctex"]
 
 [params]
 

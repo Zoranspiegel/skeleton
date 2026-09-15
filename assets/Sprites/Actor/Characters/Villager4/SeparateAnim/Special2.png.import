@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gg7tqqfurv2q"
-path="res://.godot/imported/Special2.png-1147205d9cc10b080387a26f0f0a7944.ctex"
+path="res://.godot/imported/Special2.png-b3a11906e7977c19aac7f5425c253a2f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Villager4/SeparateAnim/Special2.png"
-dest_files=["res://.godot/imported/Special2.png-1147205d9cc10b080387a26f0f0a7944.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Villager4/SeparateAnim/Special2.png"
+dest_files=["res://.godot/imported/Special2.png-b3a11906e7977c19aac7f5425c253a2f.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c1vb781vrqhh5"
-path="res://.godot/imported/KeyDelete.png-4f398ff64783e494f8ed4d332d306995.ctex"
+path="res://.godot/imported/KeyDelete.png-f9489702cda5fc3f89614243c9d34e45.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Input/Keyboard/KeyDelete.png"
-dest_files=["res://.godot/imported/KeyDelete.png-4f398ff64783e494f8ed4d332d306995.ctex"]
+source_file="res://assets/Sprites/Ui/Input/Keyboard/KeyDelete.png"
+dest_files=["res://.godot/imported/KeyDelete.png-f9489702cda5fc3f89614243c9d34e45.ctex"]
 
 [params]
 

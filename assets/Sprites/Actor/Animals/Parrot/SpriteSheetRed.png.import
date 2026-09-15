@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dunlbuw7o8afq"
-path="res://.godot/imported/SpriteSheetRed.png-e774458ae9058c153948858500866c56.ctex"
+path="res://.godot/imported/SpriteSheetRed.png-15c8c2ff0fc9d752edd4398407fe9e6d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Animals/Parrot/SpriteSheetRed.png"
-dest_files=["res://.godot/imported/SpriteSheetRed.png-e774458ae9058c153948858500866c56.ctex"]
+source_file="res://assets/Sprites/Actor/Animals/Parrot/SpriteSheetRed.png"
+dest_files=["res://.godot/imported/SpriteSheetRed.png-15c8c2ff0fc9d752edd4398407fe9e6d.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dv2rn8xpknsb6"
-path="res://.godot/imported/BottomSheet16x16.png-20db1e7693fc9c71a5ebe67453c55004.ctex"
+path="res://.godot/imported/BottomSheet16x16.png-801d6586388671b4a9b8b764350f0c92.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Backgrounds/Animated/Waterfall/BottomSheet16x16.png"
-dest_files=["res://.godot/imported/BottomSheet16x16.png-20db1e7693fc9c71a5ebe67453c55004.ctex"]
+source_file="res://assets/Sprites/Backgrounds/Animated/Waterfall/BottomSheet16x16.png"
+dest_files=["res://.godot/imported/BottomSheet16x16.png-801d6586388671b4a9b8b764350f0c92.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://x2ay8jhms052"
-path="res://.godot/imported/nine_path_panel.png-8c5334571b5732049d5b907c5a80fb98.ctex"
+path="res://.godot/imported/nine_path_panel.png-927ce1adae68ac27f14055d2d2b156dc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Theme/Wip/ThemeMetal2/nine_path_panel.png"
-dest_files=["res://.godot/imported/nine_path_panel.png-8c5334571b5732049d5b907c5a80fb98.ctex"]
+source_file="res://assets/Sprites/Ui/Theme/Wip/ThemeMetal2/nine_path_panel.png"
+dest_files=["res://.godot/imported/nine_path_panel.png-927ce1adae68ac27f14055d2d2b156dc.ctex"]
 
 [params]
 

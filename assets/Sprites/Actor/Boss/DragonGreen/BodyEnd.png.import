@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqw1bng6wo0fl"
-path="res://.godot/imported/BodyEnd.png-b68760e01a698dfc76175dd247db0c5b.ctex"
+path="res://.godot/imported/BodyEnd.png-018d9d9d96f5b1aa9f62de6a20742261.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Boss/DragonGreen/BodyEnd.png"
-dest_files=["res://.godot/imported/BodyEnd.png-b68760e01a698dfc76175dd247db0c5b.ctex"]
+source_file="res://assets/Sprites/Actor/Boss/DragonGreen/BodyEnd.png"
+dest_files=["res://.godot/imported/BodyEnd.png-018d9d9d96f5b1aa9f62de6a20742261.ctex"]
 
 [params]
 

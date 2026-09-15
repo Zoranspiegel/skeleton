@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ni5xmsnmrx4b"
-path="res://.godot/imported/CamouflageDisabled.png-e0dddcc1cf287ef868fa444ee2dfc1c8.ctex"
+path="res://.godot/imported/CamouflageDisabled.png-65631183008205d8ba32289f32ef633d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Spell/CamouflageDisabled.png"
-dest_files=["res://.godot/imported/CamouflageDisabled.png-e0dddcc1cf287ef868fa444ee2dfc1c8.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Spell/CamouflageDisabled.png"
+dest_files=["res://.godot/imported/CamouflageDisabled.png-65631183008205d8ba32289f32ef633d.ctex"]
 
 [params]
 

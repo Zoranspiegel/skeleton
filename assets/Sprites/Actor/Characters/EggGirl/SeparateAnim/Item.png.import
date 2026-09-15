@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bd5ve63agbxtt"
-path="res://.godot/imported/Item.png-43bff1287a2bdc95b9c068dded0db475.ctex"
+path="res://.godot/imported/Item.png-dbb6b1f6c34f73ac87e156ec04bf68c6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/EggGirl/SeparateAnim/Item.png"
-dest_files=["res://.godot/imported/Item.png-43bff1287a2bdc95b9c068dded0db475.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/EggGirl/SeparateAnim/Item.png"
+dest_files=["res://.godot/imported/Item.png-dbb6b1f6c34f73ac87e156ec04bf68c6.ctex"]
 
 [params]
 

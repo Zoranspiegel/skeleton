@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dr3fuk3xm8sda"
-path="res://.godot/imported/Special2.png-522fba08cd0c739079d903748dc17743.ctex"
+path="res://.godot/imported/Special2.png-1ec8ec6c5b2893a73814c9537d47d52b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/GladiatorBlue/SeparateAnim/Special2.png"
-dest_files=["res://.godot/imported/Special2.png-522fba08cd0c739079d903748dc17743.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/GladiatorBlue/SeparateAnim/Special2.png"
+dest_files=["res://.godot/imported/Special2.png-1ec8ec6c5b2893a73814c9537d47d52b.ctex"]
 
 [params]
 

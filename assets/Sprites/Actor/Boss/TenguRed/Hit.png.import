@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dp3n75nohhqxa"
-path="res://.godot/imported/Hit.png-f62447d48056cbcab4322c8dbd23bd63.ctex"
+path="res://.godot/imported/Hit.png-9cd1ff7539e2ac0d3e79c919d64f45c9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Boss/TenguRed/Hit.png"
-dest_files=["res://.godot/imported/Hit.png-f62447d48056cbcab4322c8dbd23bd63.ctex"]
+source_file="res://assets/Sprites/Actor/Boss/TenguRed/Hit.png"
+dest_files=["res://.godot/imported/Hit.png-9cd1ff7539e2ac0d3e79c919d64f45c9.ctex"]
 
 [params]
 

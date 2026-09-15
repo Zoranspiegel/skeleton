@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://csmlxligupsj2"
-path="res://.godot/imported/Faceset.png-8cdc5e353b1bc7bc2e5293d303873852.ctex"
+path="res://.godot/imported/Faceset.png-5a4ec248ff76ec3e6a10e2ec8d12b677.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Monsters/Mole2/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-8cdc5e353b1bc7bc2e5293d303873852.ctex"]
+source_file="res://assets/Sprites/Actor/Monsters/Mole2/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-5a4ec248ff76ec3e6a10e2ec8d12b677.ctex"]
 
 [params]
 

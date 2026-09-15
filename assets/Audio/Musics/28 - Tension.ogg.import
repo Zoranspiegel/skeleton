@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cfx75pownvckr"
-path="res://.godot/imported/28 - Tension.ogg-c8b6d65d1bec9bc72915714603cad768.oggvorbisstr"
+path="res://.godot/imported/28 - Tension.ogg-e95c4758d8a36960f60eb43115eb1b3b.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/Musics/28 - Tension.ogg"
-dest_files=["res://.godot/imported/28 - Tension.ogg-c8b6d65d1bec9bc72915714603cad768.oggvorbisstr"]
+source_file="res://assets/Audio/Musics/28 - Tension.ogg"
+dest_files=["res://.godot/imported/28 - Tension.ogg-e95c4758d8a36960f60eb43115eb1b3b.oggvorbisstr"]
 
 [params]
 

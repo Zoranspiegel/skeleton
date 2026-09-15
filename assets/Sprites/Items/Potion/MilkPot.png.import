@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5kgkw02lcj3v"
-path="res://.godot/imported/MilkPot.png-5fd67bc794ffc9b5a9ab2ce20ea18c44.ctex"
+path="res://.godot/imported/MilkPot.png-982785d00b680adca88e6de48451f7a3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Items/Potion/MilkPot.png"
-dest_files=["res://.godot/imported/MilkPot.png-5fd67bc794ffc9b5a9ab2ce20ea18c44.ctex"]
+source_file="res://assets/Sprites/Items/Potion/MilkPot.png"
+dest_files=["res://.godot/imported/MilkPot.png-982785d00b680adca88e6de48451f7a3.ctex"]
 
 [params]
 

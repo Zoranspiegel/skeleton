@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bsgs8kycnxdex"
-path="res://.godot/imported/Faceset.png-c22954b42015b6bd8f2fd04a05b03e8c.ctex"
+path="res://.godot/imported/Faceset.png-c50372aab7007d68d6539de6f63fcd9f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/CaveLion2/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-c22954b42015b6bd8f2fd04a05b03e8c.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/CaveLion2/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-c50372aab7007d68d6539de6f63fcd9f.ctex"]
 
 [params]
 

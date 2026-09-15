@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dr21vov1rxhfk"
-path="res://.godot/imported/Dead.png-5e0c9c49017b335476a6c05b314124ad.ctex"
+path="res://.godot/imported/Dead.png-ade58cfa5e387ef121f744892809a492.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Sultan/SeparateAnim/Dead.png"
-dest_files=["res://.godot/imported/Dead.png-5e0c9c49017b335476a6c05b314124ad.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Sultan/SeparateAnim/Dead.png"
+dest_files=["res://.godot/imported/Dead.png-ade58cfa5e387ef121f744892809a492.ctex"]
 
 [params]
 

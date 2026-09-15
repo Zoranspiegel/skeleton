@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bs6pxtamv7u2h"
-path="res://.godot/imported/ArrowDisabled.png-a9a402639f0e15c0fdf4800da821bf7e.ctex"
+path="res://.godot/imported/ArrowDisabled.png-bd2d84d5d5dd3b79ce6bef85151cf84a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Items & Weapon/ArrowDisabled.png"
-dest_files=["res://.godot/imported/ArrowDisabled.png-a9a402639f0e15c0fdf4800da821bf7e.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Items & Weapon/ArrowDisabled.png"
+dest_files=["res://.godot/imported/ArrowDisabled.png-bd2d84d5d5dd3b79ce6bef85151cf84a.ctex"]
 
 [params]
 

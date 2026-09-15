@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://du6c04nu78ang"
-path="res://.godot/imported/SingDisabled.png-e7ddcedb31a61c9d535f6465ef0ace46.ctex"
+path="res://.godot/imported/SingDisabled.png-3d7f7b7b677d2f94bea9a0bf0f0dc604.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Job & Action/SingDisabled.png"
-dest_files=["res://.godot/imported/SingDisabled.png-e7ddcedb31a61c9d535f6465ef0ace46.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Job & Action/SingDisabled.png"
+dest_files=["res://.godot/imported/SingDisabled.png-3d7f7b7b677d2f94bea9a0bf0f0dc604.ctex"]
 
 [params]
 

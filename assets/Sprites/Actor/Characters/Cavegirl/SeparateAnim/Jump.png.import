@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://oyrieoq3vpvk"
-path="res://.godot/imported/Jump.png-f5c096f553d077d438a3b25dac310164.ctex"
+path="res://.godot/imported/Jump.png-fabe67d902e4a435d46fa8141770f854.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Cavegirl/SeparateAnim/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-f5c096f553d077d438a3b25dac310164.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Cavegirl/SeparateAnim/Jump.png"
+dest_files=["res://.godot/imported/Jump.png-fabe67d902e4a435d46fa8141770f854.ctex"]
 
 [params]
 

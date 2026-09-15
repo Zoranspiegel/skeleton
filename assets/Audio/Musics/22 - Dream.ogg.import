@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://cekm45su0u7sf"
-path="res://.godot/imported/22 - Dream.ogg-4a3768801df50836f486233fbb8d1582.oggvorbisstr"
+path="res://.godot/imported/22 - Dream.ogg-6773f7fccea930cf3e2e60e6bc23ab45.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/Musics/22 - Dream.ogg"
-dest_files=["res://.godot/imported/22 - Dream.ogg-4a3768801df50836f486233fbb8d1582.oggvorbisstr"]
+source_file="res://assets/Audio/Musics/22 - Dream.ogg"
+dest_files=["res://.godot/imported/22 - Dream.ogg-6773f7fccea930cf3e2e60e6bc23ab45.oggvorbisstr"]
 
 [params]
 

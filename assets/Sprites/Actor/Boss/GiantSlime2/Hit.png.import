@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://buecxnfb0jxpj"
-path="res://.godot/imported/Hit.png-20d339d97f43750f3ee222aa49381fa9.ctex"
+path="res://.godot/imported/Hit.png-ca1510f8ac151cdd04f371c216c5c937.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Boss/GiantSlime2/Hit.png"
-dest_files=["res://.godot/imported/Hit.png-20d339d97f43750f3ee222aa49381fa9.ctex"]
+source_file="res://assets/Sprites/Actor/Boss/GiantSlime2/Hit.png"
+dest_files=["res://.godot/imported/Hit.png-ca1510f8ac151cdd04f371c216c5c937.ctex"]
 
 [params]
 

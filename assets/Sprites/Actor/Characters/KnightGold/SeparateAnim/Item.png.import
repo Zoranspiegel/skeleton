@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kn6ku3ngk57q"
-path="res://.godot/imported/Item.png-4994b26cc28b6fad9d13b8616d08e6ad.ctex"
+path="res://.godot/imported/Item.png-44079f2cd75f20060503b859df66ca13.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/KnightGold/SeparateAnim/Item.png"
-dest_files=["res://.godot/imported/Item.png-4994b26cc28b6fad9d13b8616d08e6ad.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/KnightGold/SeparateAnim/Item.png"
+dest_files=["res://.godot/imported/Item.png-44079f2cd75f20060503b859df66ca13.ctex"]
 
 [params]
 

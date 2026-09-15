@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b1s57jea614jf"
-path="res://.godot/imported/FacesetBrown.png-2ade1ba8d8d3991a10de3c2bc5fcc674.ctex"
+path="res://.godot/imported/FacesetBrown.png-2c3d7736762680379719df7c26462d8b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Animals/Monkey/FacesetBrown.png"
-dest_files=["res://.godot/imported/FacesetBrown.png-2ade1ba8d8d3991a10de3c2bc5fcc674.ctex"]
+source_file="res://assets/Sprites/Actor/Animals/Monkey/FacesetBrown.png"
+dest_files=["res://.godot/imported/FacesetBrown.png-2c3d7736762680379719df7c26462d8b.ctex"]
 
 [params]
 

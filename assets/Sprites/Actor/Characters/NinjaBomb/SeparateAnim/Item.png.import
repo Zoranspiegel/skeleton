@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bxftsmjdcewb"
-path="res://.godot/imported/Item.png-38660a1f2f2b4cde07edf3dacc152428.ctex"
+path="res://.godot/imported/Item.png-8dea8bd2af3d37fa08975e20a0c97503.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/NinjaBomb/SeparateAnim/Item.png"
-dest_files=["res://.godot/imported/Item.png-38660a1f2f2b4cde07edf3dacc152428.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/NinjaBomb/SeparateAnim/Item.png"
+dest_files=["res://.godot/imported/Item.png-8dea8bd2af3d37fa08975e20a0c97503.ctex"]
 
 [params]
 

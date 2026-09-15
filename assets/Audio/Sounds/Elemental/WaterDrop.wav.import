@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cghl1sotmi77"
-path="res://.godot/imported/WaterDrop.wav-3b4ad8f99c71c84f58429b8bb405bf7f.sample"
+path="res://.godot/imported/WaterDrop.wav-e54540336f7b43c53b20a73c2141e46d.sample"
 
 [deps]
 
-source_file="res://Audio/Sounds/Elemental/WaterDrop.wav"
-dest_files=["res://.godot/imported/WaterDrop.wav-3b4ad8f99c71c84f58429b8bb405bf7f.sample"]
+source_file="res://assets/Audio/Sounds/Elemental/WaterDrop.wav"
+dest_files=["res://.godot/imported/WaterDrop.wav-e54540336f7b43c53b20a73c2141e46d.sample"]
 
 [params]
 

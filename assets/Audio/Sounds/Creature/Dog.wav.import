@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://oqt5tsi57an7"
-path="res://.godot/imported/Dog.wav-8b86368f1a61785174b3c2ae49a7f2ca.sample"
+path="res://.godot/imported/Dog.wav-29a1fac4901a238c68c86122ad3abdeb.sample"
 
 [deps]
 
-source_file="res://Audio/Sounds/Creature/Dog.wav"
-dest_files=["res://.godot/imported/Dog.wav-8b86368f1a61785174b3c2ae49a7f2ca.sample"]
+source_file="res://assets/Audio/Sounds/Creature/Dog.wav"
+dest_files=["res://.godot/imported/Dog.wav-29a1fac4901a238c68c86122ad3abdeb.sample"]
 
 [params]
 

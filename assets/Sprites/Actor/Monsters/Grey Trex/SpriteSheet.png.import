@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://m65l4242tdp0"
-path="res://.godot/imported/SpriteSheet.png-ca27d2689cc241f4d2d6026ce576891d.ctex"
+path="res://.godot/imported/SpriteSheet.png-c1384e3c7c988a12a0a25462ef66d1a4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Monsters/Grey Trex/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-ca27d2689cc241f4d2d6026ce576891d.ctex"]
+source_file="res://assets/Sprites/Actor/Monsters/Grey Trex/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-c1384e3c7c988a12a0a25462ef66d1a4.ctex"]
 
 [params]
 

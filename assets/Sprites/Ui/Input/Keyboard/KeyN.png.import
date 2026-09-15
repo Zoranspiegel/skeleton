@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dhtbbwjbfb8q"
-path="res://.godot/imported/KeyN.png-3c0d8f6ac86a7e034b4e7a0d57ef28ab.ctex"
+path="res://.godot/imported/KeyN.png-06c8e7521112593e080714448a815e8a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Input/Keyboard/KeyN.png"
-dest_files=["res://.godot/imported/KeyN.png-3c0d8f6ac86a7e034b4e7a0d57ef28ab.ctex"]
+source_file="res://assets/Sprites/Ui/Input/Keyboard/KeyN.png"
+dest_files=["res://.godot/imported/KeyN.png-06c8e7521112593e080714448a815e8a.ctex"]
 
 [params]
 

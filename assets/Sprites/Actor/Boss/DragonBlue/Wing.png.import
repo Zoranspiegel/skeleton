@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ciktx1cb6lyqt"
-path="res://.godot/imported/Wing.png-cc620e729b9a3a4ea2f979de71a39416.ctex"
+path="res://.godot/imported/Wing.png-e901176f597bb7cc582514bc876286f1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Boss/DragonBlue/Wing.png"
-dest_files=["res://.godot/imported/Wing.png-cc620e729b9a3a4ea2f979de71a39416.ctex"]
+source_file="res://assets/Sprites/Actor/Boss/DragonBlue/Wing.png"
+dest_files=["res://.godot/imported/Wing.png-e901176f597bb7cc582514bc876286f1.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://comducubtstvi"
-path="res://.godot/imported/Walk.png-6570e80083306048b2f287d647ab3030.ctex"
+path="res://.godot/imported/Walk.png-61ebe2eb934ea7d31d3550da13edd2c7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/SorcererOrange/SeparateAnim/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-6570e80083306048b2f287d647ab3030.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/SorcererOrange/SeparateAnim/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-61ebe2eb934ea7d31d3550da13edd2c7.ctex"]
 
 [params]
 

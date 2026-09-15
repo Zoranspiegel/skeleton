@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpmxqymwkp65x"
-path="res://.godot/imported/Potion.png-390c1189412b6d049cbd06307d3fbe6c.ctex"
+path="res://.godot/imported/Potion.png-560fe113f397f8b635867dbfd9567cce.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Job & Action/Potion.png"
-dest_files=["res://.godot/imported/Potion.png-390c1189412b6d049cbd06307d3fbe6c.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Job & Action/Potion.png"
+dest_files=["res://.godot/imported/Potion.png-560fe113f397f8b635867dbfd9567cce.ctex"]
 
 [params]
 

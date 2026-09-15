@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dw215uxp0dv1f"
-path="res://.godot/imported/Idle.png-1e735b9d37461808d19a610f8ba2a76a.ctex"
+path="res://.godot/imported/Idle.png-d89d845529e23f30c8146deb11dc0b05.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Boss/GiantRedSamurai/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-1e735b9d37461808d19a610f8ba2a76a.ctex"]
+source_file="res://assets/Sprites/Actor/Boss/GiantRedSamurai/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-d89d845529e23f30c8146deb11dc0b05.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bf3n4ug5g3wx2"
-path="res://.godot/imported/Jump.png-466902caa2c4b6d877627e1aafcf2ac6.ctex"
+path="res://.godot/imported/Jump.png-4f82af224dbff26c15dcd5d224bbf210.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/NinjaEskimo/SeparateAnim/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-466902caa2c4b6d877627e1aafcf2ac6.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/NinjaEskimo/SeparateAnim/Jump.png"
+dest_files=["res://.godot/imported/Jump.png-4f82af224dbff26c15dcd5d224bbf210.ctex"]
 
 [params]
 

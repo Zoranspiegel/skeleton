@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4hbnqme78smb"
-path="res://.godot/imported/KeyF8.png-a97c0478de7252405f56858f795756be.ctex"
+path="res://.godot/imported/KeyF8.png-06cb1b67aa790535c5f8c119dfebfb0d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Input/Keyboard/KeyF8.png"
-dest_files=["res://.godot/imported/KeyF8.png-a97c0478de7252405f56858f795756be.ctex"]
+source_file="res://assets/Sprites/Ui/Input/Keyboard/KeyF8.png"
+dest_files=["res://.godot/imported/KeyF8.png-06cb1b67aa790535c5f8c119dfebfb0d.ctex"]
 
 [params]
 

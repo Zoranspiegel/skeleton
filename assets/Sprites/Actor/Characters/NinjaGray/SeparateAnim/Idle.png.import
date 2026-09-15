@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ctyrsxnbe3bfx"
-path="res://.godot/imported/Idle.png-5a58642818daa33310d5b570d75859be.ctex"
+path="res://.godot/imported/Idle.png-21017e5d9bea5d43771d82547c458281.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/NinjaGray/SeparateAnim/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-5a58642818daa33310d5b570d75859be.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/NinjaGray/SeparateAnim/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-21017e5d9bea5d43771d82547c458281.ctex"]
 
 [params]
 

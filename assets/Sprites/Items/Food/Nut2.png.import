@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4s8joop48cqg"
-path="res://.godot/imported/Nut2.png-ea84838a6bc40bfc1c3eb953cc6926ba.ctex"
+path="res://.godot/imported/Nut2.png-7fcae08974096e9a229d0d3ecef71979.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Items/Food/Nut2.png"
-dest_files=["res://.godot/imported/Nut2.png-ea84838a6bc40bfc1c3eb953cc6926ba.ctex"]
+source_file="res://assets/Sprites/Items/Food/Nut2.png"
+dest_files=["res://.godot/imported/Nut2.png-7fcae08974096e9a229d0d3ecef71979.ctex"]
 
 [params]
 

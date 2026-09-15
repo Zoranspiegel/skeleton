@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5q5xy73dnoen"
-path="res://.godot/imported/BookDarknessDisabled.png-428cdd60c423a427f179171c2a401abe.ctex"
+path="res://.godot/imported/BookDarknessDisabled.png-15967d8ee5033d28e97c7fef555608b0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Spell/BookDarknessDisabled.png"
-dest_files=["res://.godot/imported/BookDarknessDisabled.png-428cdd60c423a427f179171c2a401abe.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Spell/BookDarknessDisabled.png"
+dest_files=["res://.godot/imported/BookDarknessDisabled.png-15967d8ee5033d28e97c7fef555608b0.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3xfksi2ab4cm"
-path="res://.godot/imported/Eye.png-bd6a159ecee077bf0797f9b25b1a0fdd.ctex"
+path="res://.godot/imported/Eye.png-7228442b0ef7e2cfb8aa73c3a5db7c97.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Monsters/Eye/Eye.png"
-dest_files=["res://.godot/imported/Eye.png-bd6a159ecee077bf0797f9b25b1a0fdd.ctex"]
+source_file="res://assets/Sprites/Actor/Monsters/Eye/Eye.png"
+dest_files=["res://.godot/imported/Eye.png-7228442b0ef7e2cfb8aa73c3a5db7c97.ctex"]
 
 [params]
 

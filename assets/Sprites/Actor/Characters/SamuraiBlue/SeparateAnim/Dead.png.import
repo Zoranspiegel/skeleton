@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://kdjutcvserxm"
-path="res://.godot/imported/Dead.png-e70e0380d6527b63cfac2e3fcce69968.ctex"
+path="res://.godot/imported/Dead.png-c392364fb001520311ce558b8a678a61.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/SamuraiBlue/SeparateAnim/Dead.png"
-dest_files=["res://.godot/imported/Dead.png-e70e0380d6527b63cfac2e3fcce69968.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/SamuraiBlue/SeparateAnim/Dead.png"
+dest_files=["res://.godot/imported/Dead.png-c392364fb001520311ce558b8a678a61.ctex"]
 
 [params]
 

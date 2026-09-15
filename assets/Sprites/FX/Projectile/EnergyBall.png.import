@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4lxukfanx35l"
-path="res://.godot/imported/EnergyBall.png-04744c805a2349da6b199c5b31349efb.ctex"
+path="res://.godot/imported/EnergyBall.png-5b72e54ef5beee2012267ffd56fc1745.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/FX/Projectile/EnergyBall.png"
-dest_files=["res://.godot/imported/EnergyBall.png-04744c805a2349da6b199c5b31349efb.ctex"]
+source_file="res://assets/Sprites/FX/Projectile/EnergyBall.png"
+dest_files=["res://.godot/imported/EnergyBall.png-5b72e54ef5beee2012267ffd56fc1745.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://rrpb4orud76k"
-path="res://.godot/imported/Bamboo.png-257037db82294e5c1b8c54d9247593b8.ctex"
+path="res://.godot/imported/Bamboo.png-d98559844bf32958560136e846900a31.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/FX/Particle/Bamboo.png"
-dest_files=["res://.godot/imported/Bamboo.png-257037db82294e5c1b8c54d9247593b8.ctex"]
+source_file="res://assets/Sprites/FX/Particle/Bamboo.png"
+dest_files=["res://.godot/imported/Bamboo.png-d98559844bf32958560136e846900a31.ctex"]
 
 [params]
 

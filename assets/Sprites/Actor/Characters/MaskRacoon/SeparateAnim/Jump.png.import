@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6fb0cq7gawf5"
-path="res://.godot/imported/Jump.png-d4a9a5ce0f65290f656f65fe5c3186d3.ctex"
+path="res://.godot/imported/Jump.png-c4178a1f34480473fc11192dcc89fc8d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/MaskRacoon/SeparateAnim/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-d4a9a5ce0f65290f656f65fe5c3186d3.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/MaskRacoon/SeparateAnim/Jump.png"
+dest_files=["res://.godot/imported/Jump.png-c4178a1f34480473fc11192dcc89fc8d.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2kyfvwkq7rhk"
-path="res://.godot/imported/Idle.png-f84224ee9f1ee7f5d8f72ae94554f806.ctex"
+path="res://.godot/imported/Idle.png-d44adbb928d043761329a65005c84c8c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/RedGladiator/SeparateAnim/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-f84224ee9f1ee7f5d8f72ae94554f806.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/RedGladiator/SeparateAnim/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-d44adbb928d043761329a65005c84c8c.ctex"]
 
 [params]
 

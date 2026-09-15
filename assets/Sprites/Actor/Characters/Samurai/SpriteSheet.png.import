@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmhtse4nvaemr"
-path="res://.godot/imported/SpriteSheet.png-0d469059e5498599b3c0839e5a07bb06.ctex"
+path="res://.godot/imported/SpriteSheet.png-6a69b60663dd1ae34613dab872a3db58.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Samurai/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-0d469059e5498599b3c0839e5a07bb06.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Samurai/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-6a69b60663dd1ae34613dab872a3db58.ctex"]
 
 [params]
 

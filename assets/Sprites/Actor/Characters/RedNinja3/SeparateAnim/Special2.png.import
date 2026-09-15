@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://duostq65s3t7f"
-path="res://.godot/imported/Special2.png-755f96f3bcbe024c107791c74b0efdef.ctex"
+path="res://.godot/imported/Special2.png-10bc629fad5ed11cb09c7fa8b1c456a4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/RedNinja3/SeparateAnim/Special2.png"
-dest_files=["res://.godot/imported/Special2.png-755f96f3bcbe024c107791c74b0efdef.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/RedNinja3/SeparateAnim/Special2.png"
+dest_files=["res://.godot/imported/Special2.png-10bc629fad5ed11cb09c7fa8b1c456a4.ctex"]
 
 [params]
 

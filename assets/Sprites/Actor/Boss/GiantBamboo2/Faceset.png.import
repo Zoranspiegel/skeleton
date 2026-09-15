@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djkmf3wpld27p"
-path="res://.godot/imported/Faceset.png-1597e3c8ab832a8301c0212f43ed115d.ctex"
+path="res://.godot/imported/Faceset.png-e709c7c6b75451c43cd20871e48f7184.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Boss/GiantBamboo2/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-1597e3c8ab832a8301c0212f43ed115d.ctex"]
+source_file="res://assets/Sprites/Actor/Boss/GiantBamboo2/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-e709c7c6b75451c43cd20871e48f7184.ctex"]
 
 [params]
 

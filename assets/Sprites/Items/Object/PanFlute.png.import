@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://hj3fidrqmf4f"
-path="res://.godot/imported/PanFlute.png-0fff6ff067027b3dd870258d4e91a6b6.ctex"
+path="res://.godot/imported/PanFlute.png-a40a2ded09eb7f888f3216c3682cd25a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Items/Object/PanFlute.png"
-dest_files=["res://.godot/imported/PanFlute.png-0fff6ff067027b3dd870258d4e91a6b6.ctex"]
+source_file="res://assets/Sprites/Items/Object/PanFlute.png"
+dest_files=["res://.godot/imported/PanFlute.png-a40a2ded09eb7f888f3216c3682cd25a.ctex"]
 
 [params]
 

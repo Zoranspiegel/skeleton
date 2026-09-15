@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wowl1a1g01rq"
-path="res://.godot/imported/Special2.png-0305ad378dfdbdccab5728c368eb4fa1.ctex"
+path="res://.godot/imported/Special2.png-a5f0d1f4831f498170f52a7df3a5faf8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/NinjaGray/SeparateAnim/Special2.png"
-dest_files=["res://.godot/imported/Special2.png-0305ad378dfdbdccab5728c368eb4fa1.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/NinjaGray/SeparateAnim/Special2.png"
+dest_files=["res://.godot/imported/Special2.png-a5f0d1f4831f498170f52a7df3a5faf8.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://basx0ks4cg2pn"
-path="res://.godot/imported/Idle.png-3c09ff35dca43c7fe365d0e7558bda23.ctex"
+path="res://.godot/imported/Idle.png-3672d6c6e6d771842306cfeeaac6898d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/NinjaRed/SeparateAnim/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-3c09ff35dca43c7fe365d0e7558bda23.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/NinjaRed/SeparateAnim/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-3672d6c6e6d771842306cfeeaac6898d.ctex"]
 
 [params]
 

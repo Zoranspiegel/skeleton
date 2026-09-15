@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dx1ohvlljwg3x"
-path="res://.godot/imported/v_slidder_grabber.png-2948d6c47ec29993c8464f6040b6a852.ctex"
+path="res://.godot/imported/v_slidder_grabber.png-dd8e3e01c9c260ce6eeb2017f4f183bb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Theme/Theme Wood/v_slidder_grabber.png"
-dest_files=["res://.godot/imported/v_slidder_grabber.png-2948d6c47ec29993c8464f6040b6a852.ctex"]
+source_file="res://assets/Sprites/Ui/Theme/Theme Wood/v_slidder_grabber.png"
+dest_files=["res://.godot/imported/v_slidder_grabber.png-dd8e3e01c9c260ce6eeb2017f4f183bb.ctex"]
 
 [params]
 

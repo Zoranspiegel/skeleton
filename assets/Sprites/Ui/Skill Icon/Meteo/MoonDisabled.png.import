@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bx8jq62ilgtgh"
-path="res://.godot/imported/MoonDisabled.png-002ec2d9540b91c1e590fff4faa7f245.ctex"
+path="res://.godot/imported/MoonDisabled.png-0197a0c55eca3bc3c3475431edefe26e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Meteo/MoonDisabled.png"
-dest_files=["res://.godot/imported/MoonDisabled.png-002ec2d9540b91c1e590fff4faa7f245.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Meteo/MoonDisabled.png"
+dest_files=["res://.godot/imported/MoonDisabled.png-0197a0c55eca3bc3c3475431edefe26e.ctex"]
 
 [params]
 

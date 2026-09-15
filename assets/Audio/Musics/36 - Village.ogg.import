@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://bc3epgbjd2ds2"
-path="res://.godot/imported/36 - Village.ogg-98e35effddf2f2d481a0726fd57d1c91.oggvorbisstr"
+path="res://.godot/imported/36 - Village.ogg-5ed952946f2b605d6c49e7cbf91f2cb8.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/Musics/36 - Village.ogg"
-dest_files=["res://.godot/imported/36 - Village.ogg-98e35effddf2f2d481a0726fd57d1c91.oggvorbisstr"]
+source_file="res://assets/Audio/Musics/36 - Village.ogg"
+dest_files=["res://.godot/imported/36 - Village.ogg-5ed952946f2b605d6c49e7cbf91f2cb8.oggvorbisstr"]
 
 [params]
 

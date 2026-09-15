@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvkn5g5xwhj7v"
-path="res://.godot/imported/Preview.png-54c3e1ea5e5108f72133adeeab9d0402.ctex"
+path="res://.godot/imported/Preview.png-d49fef374e0f4353457d8d9fdccf7790.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Boss/DragonGreen/Preview.png"
-dest_files=["res://.godot/imported/Preview.png-54c3e1ea5e5108f72133adeeab9d0402.ctex"]
+source_file="res://assets/Sprites/Actor/Boss/DragonGreen/Preview.png"
+dest_files=["res://.godot/imported/Preview.png-d49fef374e0f4353457d8d9fdccf7790.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cclsvxts7hhdu"
-path="res://.godot/imported/Special1.png-e612d503ed2438588dbc2d0a21285ec6.ctex"
+path="res://.godot/imported/Special1.png-66d4f25612eb3a31a9da0eaf56b6424d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/MonkeyBoxerRed/SeparateAnim/Special1.png"
-dest_files=["res://.godot/imported/Special1.png-e612d503ed2438588dbc2d0a21285ec6.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/MonkeyBoxerRed/SeparateAnim/Special1.png"
+dest_files=["res://.godot/imported/Special1.png-66d4f25612eb3a31a9da0eaf56b6424d.ctex"]
 
 [params]
 

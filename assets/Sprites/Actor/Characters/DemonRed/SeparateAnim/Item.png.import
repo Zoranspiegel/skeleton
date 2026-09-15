@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://2nlata4f0a68"
-path="res://.godot/imported/Item.png-07a38ad25491a0f94d1b53524a311ccb.ctex"
+path="res://.godot/imported/Item.png-694af52da29328e43e2b9d5401d9d23e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/DemonRed/SeparateAnim/Item.png"
-dest_files=["res://.godot/imported/Item.png-07a38ad25491a0f94d1b53524a311ccb.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/DemonRed/SeparateAnim/Item.png"
+dest_files=["res://.godot/imported/Item.png-694af52da29328e43e2b9d5401d9d23e.ctex"]
 
 [params]
 

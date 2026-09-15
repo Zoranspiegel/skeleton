@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bnhohw34akftw"
-path="res://.godot/imported/ProgressMana.png-a4cd8c142da0d4a0c06c3b91925818af.ctex"
+path="res://.godot/imported/ProgressMana.png-015cde4441f5ef9b05d2a3a9cbf79d23.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Receptacle/Receptacle Sphere/ProgressMana.png"
-dest_files=["res://.godot/imported/ProgressMana.png-a4cd8c142da0d4a0c06c3b91925818af.ctex"]
+source_file="res://assets/Sprites/Ui/Receptacle/Receptacle Sphere/ProgressMana.png"
+dest_files=["res://.godot/imported/ProgressMana.png-015cde4441f5ef9b05d2a3a9cbf79d23.ctex"]
 
 [params]
 

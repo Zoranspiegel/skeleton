@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bx2v8jtsaahup"
-path="res://.godot/imported/Sushi2.png-8818ff1c0da4e758c17cb2e5abfb2073.ctex"
+path="res://.godot/imported/Sushi2.png-64d2da06037805da1c3c29147c9b3dd8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Items/Food/Sushi2.png"
-dest_files=["res://.godot/imported/Sushi2.png-8818ff1c0da4e758c17cb2e5abfb2073.ctex"]
+source_file="res://assets/Sprites/Items/Food/Sushi2.png"
+dest_files=["res://.godot/imported/Sushi2.png-64d2da06037805da1c3c29147c9b3dd8.ctex"]
 
 [params]
 

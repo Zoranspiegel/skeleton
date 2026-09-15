@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bh25ayt3werxw"
-path="res://.godot/imported/Medipack.png-f71a543e210ff621c259536afc13314b.ctex"
+path="res://.godot/imported/Medipack.png-7b8fed222d39d5ddff25bb66297895b6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Items/Potion/Medipack.png"
-dest_files=["res://.godot/imported/Medipack.png-f71a543e210ff621c259536afc13314b.ctex"]
+source_file="res://assets/Sprites/Items/Potion/Medipack.png"
+dest_files=["res://.godot/imported/Medipack.png-7b8fed222d39d5ddff25bb66297895b6.ctex"]
 
 [params]
 

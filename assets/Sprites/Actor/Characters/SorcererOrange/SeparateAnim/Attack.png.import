@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3epkgeuhxuyd"
-path="res://.godot/imported/Attack.png-4092d890321979a4347a82a20723810d.ctex"
+path="res://.godot/imported/Attack.png-f85df490c98e354e65778af53a962139.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/SorcererOrange/SeparateAnim/Attack.png"
-dest_files=["res://.godot/imported/Attack.png-4092d890321979a4347a82a20723810d.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/SorcererOrange/SeparateAnim/Attack.png"
+dest_files=["res://.godot/imported/Attack.png-f85df490c98e354e65778af53a962139.ctex"]
 
 [params]
 

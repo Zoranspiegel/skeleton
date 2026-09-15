@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://by3n5xlj4xcxp"
-path="res://.godot/imported/ButtonDown.png-30c2071ef5d401757f1165e3fa22c00e.ctex"
+path="res://.godot/imported/ButtonDown.png-cfd0046d16c3ca72ddf43ace7f2ae69f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Input/Gamepad/ButtonDown.png"
-dest_files=["res://.godot/imported/ButtonDown.png-30c2071ef5d401757f1165e3fa22c00e.ctex"]
+source_file="res://assets/Sprites/Ui/Input/Gamepad/ButtonDown.png"
+dest_files=["res://.godot/imported/ButtonDown.png-cfd0046d16c3ca72ddf43ace7f2ae69f.ctex"]
 
 [params]
 

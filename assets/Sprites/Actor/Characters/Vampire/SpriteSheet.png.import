@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://t0avfr2key8u"
-path="res://.godot/imported/SpriteSheet.png-ea0971c2f08bcef40085154396a9434b.ctex"
+path="res://.godot/imported/SpriteSheet.png-8a8a9f1d1b0d1c93877e769ec75644fa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Vampire/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-ea0971c2f08bcef40085154396a9434b.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Vampire/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-8a8a9f1d1b0d1c93877e769ec75644fa.ctex"]
 
 [params]
 

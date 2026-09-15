@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://21g0mlpk2njy"
-path="res://.godot/imported/Hit.png-b2bc69fa0c88728bccf4f145ee478bef.ctex"
+path="res://.godot/imported/Hit.png-5c69989b1edbde34c4350bcba469a399.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Boss/GiantBamboo/Hit.png"
-dest_files=["res://.godot/imported/Hit.png-b2bc69fa0c88728bccf4f145ee478bef.ctex"]
+source_file="res://assets/Sprites/Actor/Boss/GiantBamboo/Hit.png"
+dest_files=["res://.godot/imported/Hit.png-5c69989b1edbde34c4350bcba469a399.ctex"]
 
 [params]
 

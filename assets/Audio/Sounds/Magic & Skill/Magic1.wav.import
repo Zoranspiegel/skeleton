@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dr8ohp5h8swqi"
-path="res://.godot/imported/Magic1.wav-b03478db185efd51f09c176c9b66f813.sample"
+path="res://.godot/imported/Magic1.wav-7d90a6685d8d28993c104ce828d06a5a.sample"
 
 [deps]
 
-source_file="res://Audio/Sounds/Magic & Skill/Magic1.wav"
-dest_files=["res://.godot/imported/Magic1.wav-b03478db185efd51f09c176c9b66f813.sample"]
+source_file="res://assets/Audio/Sounds/Magic & Skill/Magic1.wav"
+dest_files=["res://.godot/imported/Magic1.wav-7d90a6685d8d28993c104ce828d06a5a.sample"]
 
 [params]
 

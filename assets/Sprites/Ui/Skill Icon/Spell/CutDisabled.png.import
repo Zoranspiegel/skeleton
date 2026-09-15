@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dg0ccgru4ndrb"
-path="res://.godot/imported/CutDisabled.png-ffbbb0523c1f8a13ea93aaccf1a6034d.ctex"
+path="res://.godot/imported/CutDisabled.png-0e9a237acaf85a655b8a31dc9da806e4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Spell/CutDisabled.png"
-dest_files=["res://.godot/imported/CutDisabled.png-ffbbb0523c1f8a13ea93aaccf1a6034d.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Spell/CutDisabled.png"
+dest_files=["res://.godot/imported/CutDisabled.png-0e9a237acaf85a655b8a31dc9da806e4.ctex"]
 
 [params]
 

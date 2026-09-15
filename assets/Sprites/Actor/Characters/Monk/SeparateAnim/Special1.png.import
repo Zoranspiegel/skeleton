@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5r7ukrelr0w5"
-path="res://.godot/imported/Special1.png-73a259a8cc9cede8f5a5250cc857b27d.ctex"
+path="res://.godot/imported/Special1.png-d640c78ae1a75ac27e30bd6d317310d9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Monk/SeparateAnim/Special1.png"
-dest_files=["res://.godot/imported/Special1.png-73a259a8cc9cede8f5a5250cc857b27d.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Monk/SeparateAnim/Special1.png"
+dest_files=["res://.godot/imported/Special1.png-d640c78ae1a75ac27e30bd6d317310d9.ctex"]
 
 [params]
 

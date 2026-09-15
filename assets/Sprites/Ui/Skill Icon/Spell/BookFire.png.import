@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bsw3pn0o6t3pd"
-path="res://.godot/imported/BookFire.png-9157b62369d1e7bcb202a25553f5cd1f.ctex"
+path="res://.godot/imported/BookFire.png-7e573fb40ca2e6bb3a2db9d91d3000b2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Spell/BookFire.png"
-dest_files=["res://.godot/imported/BookFire.png-9157b62369d1e7bcb202a25553f5cd1f.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Spell/BookFire.png"
+dest_files=["res://.godot/imported/BookFire.png-7e573fb40ca2e6bb3a2db9d91d3000b2.ctex"]
 
 [params]
 

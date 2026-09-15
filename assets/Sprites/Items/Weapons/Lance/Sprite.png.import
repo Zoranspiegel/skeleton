@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3p8iooj1mo5j"
-path="res://.godot/imported/Sprite.png-4a41b95688d3df166b3cecd9066c76da.ctex"
+path="res://.godot/imported/Sprite.png-ef6ea2eafe46bbb03ec53fcb6c30f1f6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Items/Weapons/Lance/Sprite.png"
-dest_files=["res://.godot/imported/Sprite.png-4a41b95688d3df166b3cecd9066c76da.ctex"]
+source_file="res://assets/Sprites/Items/Weapons/Lance/Sprite.png"
+dest_files=["res://.godot/imported/Sprite.png-ef6ea2eafe46bbb03ec53fcb6c30f1f6.ctex"]
 
 [params]
 

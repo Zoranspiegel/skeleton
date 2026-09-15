@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cu8pdsyu1qeys"
-path="res://.godot/imported/ScrollRock.png-1c91fe9211e4d07ade1bfc18ea1df074.ctex"
+path="res://.godot/imported/ScrollRock.png-8e3a96052ecb90d33376ad2c472391ee.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Items/Scroll/ScrollRock.png"
-dest_files=["res://.godot/imported/ScrollRock.png-1c91fe9211e4d07ade1bfc18ea1df074.ctex"]
+source_file="res://assets/Sprites/Items/Scroll/ScrollRock.png"
+dest_files=["res://.godot/imported/ScrollRock.png-8e3a96052ecb90d33376ad2c472391ee.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gep82a7b03hr"
-path="res://.godot/imported/Charge.png-e1305fea2ea302a6a1946a82e460ecfe.ctex"
+path="res://.godot/imported/Charge.png-10c7035ed4d5a805c810b4d94616c2be.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Boss/GiantBamboo2/Charge.png"
-dest_files=["res://.godot/imported/Charge.png-e1305fea2ea302a6a1946a82e460ecfe.ctex"]
+source_file="res://assets/Sprites/Actor/Boss/GiantBamboo2/Charge.png"
+dest_files=["res://.godot/imported/Charge.png-10c7035ed4d5a805c810b4d94616c2be.ctex"]
 
 [params]
 

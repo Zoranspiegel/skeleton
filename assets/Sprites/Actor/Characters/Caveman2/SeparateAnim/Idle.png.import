@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://moeirbyye0yt"
-path="res://.godot/imported/Idle.png-b4110a08753d8694805a186110ddecac.ctex"
+path="res://.godot/imported/Idle.png-2062269c64fa9e93f030790ad48cefaa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Caveman2/SeparateAnim/Idle.png"
-dest_files=["res://.godot/imported/Idle.png-b4110a08753d8694805a186110ddecac.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Caveman2/SeparateAnim/Idle.png"
+dest_files=["res://.godot/imported/Idle.png-2062269c64fa9e93f030790ad48cefaa.ctex"]
 
 [params]
 

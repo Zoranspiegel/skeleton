@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxblj3wraxbsl"
-path="res://.godot/imported/Walk.png-271c3403387ffb8e90964c20d447577d.ctex"
+path="res://.godot/imported/Walk.png-16e44aff780965aaad3611bfe5b1b543.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Villager5/SeparateAnim/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-271c3403387ffb8e90964c20d447577d.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Villager5/SeparateAnim/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-16e44aff780965aaad3611bfe5b1b543.ctex"]
 
 [params]
 

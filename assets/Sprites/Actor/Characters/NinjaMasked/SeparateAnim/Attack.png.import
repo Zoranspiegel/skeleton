@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dskqunfd48n6u"
-path="res://.godot/imported/Attack.png-2421bd70b5330a7bd582d2c40f3756d0.ctex"
+path="res://.godot/imported/Attack.png-4d01622983d139ff4dc1df0dcf973554.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/NinjaMasked/SeparateAnim/Attack.png"
-dest_files=["res://.godot/imported/Attack.png-2421bd70b5330a7bd582d2c40f3756d0.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/NinjaMasked/SeparateAnim/Attack.png"
+dest_files=["res://.godot/imported/Attack.png-4d01622983d139ff4dc1df0dcf973554.ctex"]
 
 [params]
 

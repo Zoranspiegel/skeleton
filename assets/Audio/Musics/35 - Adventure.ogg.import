@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://d0ad56lc1ete1"
-path="res://.godot/imported/35 - Adventure.ogg-b8c98bbd64d4318b93335c24016a6957.oggvorbisstr"
+path="res://.godot/imported/35 - Adventure.ogg-4898f048d033d5011bb2bc1175a7e74a.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/Musics/35 - Adventure.ogg"
-dest_files=["res://.godot/imported/35 - Adventure.ogg-b8c98bbd64d4318b93335c24016a6957.oggvorbisstr"]
+source_file="res://assets/Audio/Musics/35 - Adventure.ogg"
+dest_files=["res://.godot/imported/35 - Adventure.ogg-4898f048d033d5011bb2bc1175a7e74a.oggvorbisstr"]
 
 [params]
 

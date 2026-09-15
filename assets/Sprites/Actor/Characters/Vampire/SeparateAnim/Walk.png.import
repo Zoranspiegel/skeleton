@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dsiap7jpp25x1"
-path="res://.godot/imported/Walk.png-3f8369521a4e3769ed041193ec3b5cd7.ctex"
+path="res://.godot/imported/Walk.png-96dd4881d129fa2495f78b0df7e180f6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Vampire/SeparateAnim/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-3f8369521a4e3769ed041193ec3b5cd7.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Vampire/SeparateAnim/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-96dd4881d129fa2495f78b0df7e180f6.ctex"]
 
 [params]
 

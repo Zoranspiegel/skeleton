@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bly1h0fh44h02"
-path="res://.godot/imported/ArmorDisabled.png-c8261ffae3e76480bc9521cdee31e7f3.ctex"
+path="res://.godot/imported/ArmorDisabled.png-093cf2fc3504a5032dae6cfe95d24949.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Items & Weapon/ArmorDisabled.png"
-dest_files=["res://.godot/imported/ArmorDisabled.png-c8261ffae3e76480bc9521cdee31e7f3.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Items & Weapon/ArmorDisabled.png"
+dest_files=["res://.godot/imported/ArmorDisabled.png-093cf2fc3504a5032dae6cfe95d24949.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://7aye5afd67tf"
-path="res://.godot/imported/BackgroundMetal.png-c9b4757a14d3b13059efe187df5cffe0.ctex"
+path="res://.godot/imported/BackgroundMetal.png-0668265ac448e6eb435d109e00f548b8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Receptacle/Receptacle Sphere/BackgroundMetal.png"
-dest_files=["res://.godot/imported/BackgroundMetal.png-c9b4757a14d3b13059efe187df5cffe0.ctex"]
+source_file="res://assets/Sprites/Ui/Receptacle/Receptacle Sphere/BackgroundMetal.png"
+dest_files=["res://.godot/imported/BackgroundMetal.png-0668265ac448e6eb435d109e00f548b8.ctex"]
 
 [params]
 

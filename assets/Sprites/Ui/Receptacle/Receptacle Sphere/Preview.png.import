@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cyvoqflisxfvj"
-path="res://.godot/imported/Preview.png-62e9eca3300a7598f1c3d23a5a2f0aab.ctex"
+path="res://.godot/imported/Preview.png-e3f145fdae1874e0470f315b71d84b4c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Receptacle/Receptacle Sphere/Preview.png"
-dest_files=["res://.godot/imported/Preview.png-62e9eca3300a7598f1c3d23a5a2f0aab.ctex"]
+source_file="res://assets/Sprites/Ui/Receptacle/Receptacle Sphere/Preview.png"
+dest_files=["res://.godot/imported/Preview.png-e3f145fdae1874e0470f315b71d84b4c.ctex"]
 
 [params]
 

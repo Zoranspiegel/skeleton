@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://8epws26sx42d"
-path="res://.godot/imported/Duck.wav-b90bfbdef9ace561379beb49bd515761.sample"
+path="res://.godot/imported/Duck.wav-18f28e6ffc89778b4925872736c47801.sample"
 
 [deps]
 
-source_file="res://Audio/Sounds/Creature/Duck.wav"
-dest_files=["res://.godot/imported/Duck.wav-b90bfbdef9ace561379beb49bd515761.sample"]
+source_file="res://assets/Audio/Sounds/Creature/Duck.wav"
+dest_files=["res://.godot/imported/Duck.wav-18f28e6ffc89778b4925872736c47801.sample"]
 
 [params]
 

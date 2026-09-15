@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4a0jh8kur3sv"
-path="res://.godot/imported/radio_checked.png-30ddb1405362303b76419d036d7a1d5b.ctex"
+path="res://.godot/imported/radio_checked.png-18e440077e3eb82686a9cea53db86960.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Theme/Theme Wood/radio_checked.png"
-dest_files=["res://.godot/imported/radio_checked.png-30ddb1405362303b76419d036d7a1d5b.ctex"]
+source_file="res://assets/Sprites/Ui/Theme/Theme Wood/radio_checked.png"
+dest_files=["res://.godot/imported/radio_checked.png-18e440077e3eb82686a9cea53db86960.ctex"]
 
 [params]
 

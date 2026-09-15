@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpx5dn0f0novi"
-path="res://.godot/imported/BookDeath.png-17cdcf27508b1446561f49fcedeec097.ctex"
+path="res://.godot/imported/BookDeath.png-b97115f8a5e2661bca455e00d2f49f93.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Spell/BookDeath.png"
-dest_files=["res://.godot/imported/BookDeath.png-17cdcf27508b1446561f49fcedeec097.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Spell/BookDeath.png"
+dest_files=["res://.godot/imported/BookDeath.png-b97115f8a5e2661bca455e00d2f49f93.ctex"]
 
 [params]
 

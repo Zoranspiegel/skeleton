@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8s56uybb0t66"
-path="res://.godot/imported/InteractDisabled.png-e3ec3ac8452c86279dd078f135dcc36a.ctex"
+path="res://.godot/imported/InteractDisabled.png-36ce98bd03af7ad73ae0c4cc08c3271e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Job & Action/InteractDisabled.png"
-dest_files=["res://.godot/imported/InteractDisabled.png-e3ec3ac8452c86279dd078f135dcc36a.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Job & Action/InteractDisabled.png"
+dest_files=["res://.godot/imported/InteractDisabled.png-36ce98bd03af7ad73ae0c4cc08c3271e.ctex"]
 
 [params]
 

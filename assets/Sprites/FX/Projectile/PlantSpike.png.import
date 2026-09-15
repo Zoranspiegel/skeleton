@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wi5xdkm4hfev"
-path="res://.godot/imported/PlantSpike.png-f0752e0a4db64e033316717f39398433.ctex"
+path="res://.godot/imported/PlantSpike.png-90a0cc92326a66937b55e965a5cd4a69.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/FX/Projectile/PlantSpike.png"
-dest_files=["res://.godot/imported/PlantSpike.png-f0752e0a4db64e033316717f39398433.ctex"]
+source_file="res://assets/Sprites/FX/Projectile/PlantSpike.png"
+dest_files=["res://.godot/imported/PlantSpike.png-90a0cc92326a66937b55e965a5cd4a69.ctex"]
 
 [params]
 

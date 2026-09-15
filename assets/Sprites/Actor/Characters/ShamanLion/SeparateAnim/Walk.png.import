@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgsfpcibuhk7x"
-path="res://.godot/imported/Walk.png-b1f4830d48da0fd0404627cadd8ecb59.ctex"
+path="res://.godot/imported/Walk.png-296fb6a5bd59aee9de78b474301d30e4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/ShamanLion/SeparateAnim/Walk.png"
-dest_files=["res://.godot/imported/Walk.png-b1f4830d48da0fd0404627cadd8ecb59.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/ShamanLion/SeparateAnim/Walk.png"
+dest_files=["res://.godot/imported/Walk.png-296fb6a5bd59aee9de78b474301d30e4.ctex"]
 
 [params]
 

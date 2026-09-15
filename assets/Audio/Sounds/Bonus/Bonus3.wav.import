@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dkttj0jpj4cc7"
-path="res://.godot/imported/Bonus3.wav-e49bded1959a97be0c4f42ba4074659a.sample"
+path="res://.godot/imported/Bonus3.wav-29d347b07467c70c67375a87b7655b9c.sample"
 
 [deps]
 
-source_file="res://Audio/Sounds/Bonus/Bonus3.wav"
-dest_files=["res://.godot/imported/Bonus3.wav-e49bded1959a97be0c4f42ba4074659a.sample"]
+source_file="res://assets/Audio/Sounds/Bonus/Bonus3.wav"
+dest_files=["res://.godot/imported/Bonus3.wav-29d347b07467c70c67375a87b7655b9c.sample"]
 
 [params]
 

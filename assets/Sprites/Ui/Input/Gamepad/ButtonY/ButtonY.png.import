@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://wviepgxo4aug"
-path="res://.godot/imported/ButtonY.png-a48cca9f71c325d7a8636bb8fe9a79c4.ctex"
+path="res://.godot/imported/ButtonY.png-aad3d0de0e906ba130b1a8de8d43d975.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Input/Gamepad/ButtonY/ButtonY.png"
-dest_files=["res://.godot/imported/ButtonY.png-a48cca9f71c325d7a8636bb8fe9a79c4.ctex"]
+source_file="res://assets/Sprites/Ui/Input/Gamepad/ButtonY/ButtonY.png"
+dest_files=["res://.godot/imported/ButtonY.png-aad3d0de0e906ba130b1a8de8d43d975.ctex"]
 
 [params]
 

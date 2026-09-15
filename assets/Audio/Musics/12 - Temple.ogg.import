@@ -3,12 +3,12 @@
 importer="oggvorbisstr"
 type="AudioStreamOggVorbis"
 uid="uid://brbaroser3q4e"
-path="res://.godot/imported/12 - Temple.ogg-46a4329f98e2850294c173f4350010b4.oggvorbisstr"
+path="res://.godot/imported/12 - Temple.ogg-8de93ef94c3b94591856bb6eb827cdaa.oggvorbisstr"
 
 [deps]
 
-source_file="res://Audio/Musics/12 - Temple.ogg"
-dest_files=["res://.godot/imported/12 - Temple.ogg-46a4329f98e2850294c173f4350010b4.oggvorbisstr"]
+source_file="res://assets/Audio/Musics/12 - Temple.ogg"
+dest_files=["res://.godot/imported/12 - Temple.ogg-8de93ef94c3b94591856bb6eb827cdaa.oggvorbisstr"]
 
 [params]
 

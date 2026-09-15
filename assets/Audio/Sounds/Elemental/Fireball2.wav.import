@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://defy21a7bl0u6"
-path="res://.godot/imported/Fireball2.wav-5b79d73a13ebc5ff9f8a71df06a8d8f5.sample"
+path="res://.godot/imported/Fireball2.wav-eb8f5c3599030e70d9e8c18ddde5389d.sample"
 
 [deps]
 
-source_file="res://Audio/Sounds/Elemental/Fireball2.wav"
-dest_files=["res://.godot/imported/Fireball2.wav-5b79d73a13ebc5ff9f8a71df06a8d8f5.sample"]
+source_file="res://assets/Audio/Sounds/Elemental/Fireball2.wav"
+dest_files=["res://.godot/imported/Fireball2.wav-eb8f5c3599030e70d9e8c18ddde5389d.sample"]
 
 [params]
 

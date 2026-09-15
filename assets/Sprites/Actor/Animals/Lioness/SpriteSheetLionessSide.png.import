@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bduo7hfb22ins"
-path="res://.godot/imported/SpriteSheetLionessSide.png-f6dc752437b0630e50d4dfbc8e285569.ctex"
+path="res://.godot/imported/SpriteSheetLionessSide.png-a27c8497115934f32595ce00a691b3a9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Animals/Lioness/SpriteSheetLionessSide.png"
-dest_files=["res://.godot/imported/SpriteSheetLionessSide.png-f6dc752437b0630e50d4dfbc8e285569.ctex"]
+source_file="res://assets/Sprites/Actor/Animals/Lioness/SpriteSheetLionessSide.png"
+dest_files=["res://.godot/imported/SpriteSheetLionessSide.png-a27c8497115934f32595ce00a691b3a9.ctex"]
 
 [params]
 

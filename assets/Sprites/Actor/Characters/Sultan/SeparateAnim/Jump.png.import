@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dgavtpfb7f8kc"
-path="res://.godot/imported/Jump.png-bb83ab61991f880b402d2302400befb5.ctex"
+path="res://.godot/imported/Jump.png-bc4f82097b631ece2cb53ae95ce5938f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Sultan/SeparateAnim/Jump.png"
-dest_files=["res://.godot/imported/Jump.png-bb83ab61991f880b402d2302400befb5.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Sultan/SeparateAnim/Jump.png"
+dest_files=["res://.godot/imported/Jump.png-bc4f82097b631ece2cb53ae95ce5938f.ctex"]
 
 [params]
 

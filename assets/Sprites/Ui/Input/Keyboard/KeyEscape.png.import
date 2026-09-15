@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bwispoqb4mitr"
-path="res://.godot/imported/KeyEscape.png-ad3cb2c399666fdbaf5742be4898fcf5.ctex"
+path="res://.godot/imported/KeyEscape.png-40b62db433350d6834a3b214564cc2aa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Input/Keyboard/KeyEscape.png"
-dest_files=["res://.godot/imported/KeyEscape.png-ad3cb2c399666fdbaf5742be4898fcf5.ctex"]
+source_file="res://assets/Sprites/Ui/Input/Keyboard/KeyEscape.png"
+dest_files=["res://.godot/imported/KeyEscape.png-40b62db433350d6834a3b214564cc2aa.ctex"]
 
 [params]
 

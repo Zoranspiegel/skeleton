@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://v4h3crrdymcq"
-path="res://.godot/imported/UpgradeDisabled.png-539e8f4461853926a13c268075a49a3a.ctex"
+path="res://.godot/imported/UpgradeDisabled.png-7bd653ba01b702aff91f451a7c7cca16.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Spell/UpgradeDisabled.png"
-dest_files=["res://.godot/imported/UpgradeDisabled.png-539e8f4461853926a13c268075a49a3a.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Spell/UpgradeDisabled.png"
+dest_files=["res://.godot/imported/UpgradeDisabled.png-7bd653ba01b702aff91f451a7c7cca16.ctex"]
 
 [params]
 

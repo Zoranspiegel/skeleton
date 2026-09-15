@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://8ycitlcwpjwn"
-path="res://.godot/imported/Heal.wav-c16f402d268fb41a10bb40ab4cb5f75f.sample"
+path="res://.godot/imported/Heal.wav-f6d3c348da28461d5431253f10f430fe.sample"
 
 [deps]
 
-source_file="res://Audio/Sounds/Magic & Skill/Heal.wav"
-dest_files=["res://.godot/imported/Heal.wav-c16f402d268fb41a10bb40ab4cb5f75f.sample"]
+source_file="res://assets/Audio/Sounds/Magic & Skill/Heal.wav"
+dest_files=["res://.godot/imported/Heal.wav-f6d3c348da28461d5431253f10f430fe.sample"]
 
 [params]
 

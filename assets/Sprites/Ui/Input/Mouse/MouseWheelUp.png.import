@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://4peda1rt050h"
-path="res://.godot/imported/MouseWheelUp.png-74c7ea76d572d3217c35709a0872c586.ctex"
+path="res://.godot/imported/MouseWheelUp.png-b92037dc586c8a1e9a8432c85ba04bb2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Input/Mouse/MouseWheelUp.png"
-dest_files=["res://.godot/imported/MouseWheelUp.png-74c7ea76d572d3217c35709a0872c586.ctex"]
+source_file="res://assets/Sprites/Ui/Input/Mouse/MouseWheelUp.png"
+dest_files=["res://.godot/imported/MouseWheelUp.png-b92037dc586c8a1e9a8432c85ba04bb2.ctex"]
 
 [params]
 

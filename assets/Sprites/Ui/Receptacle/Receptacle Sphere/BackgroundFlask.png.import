@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2ce0yy1qe6vx"
-path="res://.godot/imported/BackgroundFlask.png-7cf9b1f5c9aadeebd7d42dc2fabd0e27.ctex"
+path="res://.godot/imported/BackgroundFlask.png-70a534a7f0df332d33ecc5a79ca55fc4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Receptacle/Receptacle Sphere/BackgroundFlask.png"
-dest_files=["res://.godot/imported/BackgroundFlask.png-7cf9b1f5c9aadeebd7d42dc2fabd0e27.ctex"]
+source_file="res://assets/Sprites/Ui/Receptacle/Receptacle Sphere/BackgroundFlask.png"
+dest_files=["res://.godot/imported/BackgroundFlask.png-70a534a7f0df332d33ecc5a79ca55fc4.ctex"]
 
 [params]
 

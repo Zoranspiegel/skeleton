@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dtf8xwumw1rxe"
-path="res://.godot/imported/Faceset.png-0fff7fd401739d2c082d9a29bea826ef.ctex"
+path="res://.godot/imported/Faceset.png-0b61baa7471c938eae5c952e66113ca4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Sultan2/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-0fff7fd401739d2c082d9a29bea826ef.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Sultan2/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-0b61baa7471c938eae5c952e66113ca4.ctex"]
 
 [params]
 

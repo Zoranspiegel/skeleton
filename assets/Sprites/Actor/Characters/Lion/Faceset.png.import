@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://n2fnkkbq1n1e"
-path="res://.godot/imported/Faceset.png-7059c0ab44eac75622ae88b6e733d741.ctex"
+path="res://.godot/imported/Faceset.png-e9f8d233f6c0ee6afb9c6e6a0a14a92f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Lion/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-7059c0ab44eac75622ae88b6e733d741.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Lion/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-e9f8d233f6c0ee6afb9c6e6a0a14a92f.ctex"]
 
 [params]
 

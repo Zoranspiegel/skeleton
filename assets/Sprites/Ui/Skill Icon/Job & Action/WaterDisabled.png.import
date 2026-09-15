@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxexouri7b4yu"
-path="res://.godot/imported/WaterDisabled.png-41e2f7f20ff6d6dbe6284c7cac391be9.ctex"
+path="res://.godot/imported/WaterDisabled.png-6e04218079da622217a682af8ffe101e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Job & Action/WaterDisabled.png"
-dest_files=["res://.godot/imported/WaterDisabled.png-41e2f7f20ff6d6dbe6284c7cac391be9.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Job & Action/WaterDisabled.png"
+dest_files=["res://.godot/imported/WaterDisabled.png-6e04218079da622217a682af8ffe101e.ctex"]
 
 [params]
 

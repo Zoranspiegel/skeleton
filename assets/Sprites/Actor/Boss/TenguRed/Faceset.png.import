@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bnj75mf8lxljx"
-path="res://.godot/imported/Faceset.png-009dc4af2dc36096a8e5b245b183b79d.ctex"
+path="res://.godot/imported/Faceset.png-e45451adc2be62f8f90c172907a4c175.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Boss/TenguRed/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-009dc4af2dc36096a8e5b245b183b79d.ctex"]
+source_file="res://assets/Sprites/Actor/Boss/TenguRed/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-e45451adc2be62f8f90c172907a4c175.ctex"]
 
 [params]
 

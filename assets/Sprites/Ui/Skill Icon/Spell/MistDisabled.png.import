@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bft8rbsqw36sx"
-path="res://.godot/imported/MistDisabled.png-68bc803cd9439115e68afd0e8f5cd5c4.ctex"
+path="res://.godot/imported/MistDisabled.png-e8fa49da41cf05d5384d69bad8bbeea2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Spell/MistDisabled.png"
-dest_files=["res://.godot/imported/MistDisabled.png-68bc803cd9439115e68afd0e8f5cd5c4.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Spell/MistDisabled.png"
+dest_files=["res://.godot/imported/MistDisabled.png-e8fa49da41cf05d5384d69bad8bbeea2.ctex"]
 
 [params]
 

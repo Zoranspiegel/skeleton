@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvhm6a2xofgme"
-path="res://.godot/imported/Item.png-ba7f5106385be5efbeebd6986348a2a4.ctex"
+path="res://.godot/imported/Item.png-4bcfbf7b3dd3a9d04aaf6051d8b9ebfe.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Pig/SeparateAnim/Item.png"
-dest_files=["res://.godot/imported/Item.png-ba7f5106385be5efbeebd6986348a2a4.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Pig/SeparateAnim/Item.png"
+dest_files=["res://.godot/imported/Item.png-4bcfbf7b3dd3a9d04aaf6051d8b9ebfe.ctex"]
 
 [params]
 

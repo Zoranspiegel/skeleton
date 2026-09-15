@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b8ihebxn4x30g"
-path="res://.godot/imported/Owl2.png-dac69106f5fb26edfa338a191383b4c6.ctex"
+path="res://.godot/imported/Owl2.png-1bc482aa9baf381b7c9506abfcab2603.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Monsters/Owl2/Owl2.png"
-dest_files=["res://.godot/imported/Owl2.png-dac69106f5fb26edfa338a191383b4c6.ctex"]
+source_file="res://assets/Sprites/Actor/Monsters/Owl2/Owl2.png"
+dest_files=["res://.godot/imported/Owl2.png-1bc482aa9baf381b7c9506abfcab2603.ctex"]
 
 [params]
 

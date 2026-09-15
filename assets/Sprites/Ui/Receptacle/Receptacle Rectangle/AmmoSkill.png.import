@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdp5mayq41gk1"
-path="res://.godot/imported/AmmoSkill.png-1f184c25b57ac3367498847c1dfbbc65.ctex"
+path="res://.godot/imported/AmmoSkill.png-9b683473fc7662728908751377f6d587.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Receptacle/Receptacle Rectangle/AmmoSkill.png"
-dest_files=["res://.godot/imported/AmmoSkill.png-1f184c25b57ac3367498847c1dfbbc65.ctex"]
+source_file="res://assets/Sprites/Ui/Receptacle/Receptacle Rectangle/AmmoSkill.png"
+dest_files=["res://.godot/imported/AmmoSkill.png-9b683473fc7662728908751377f6d587.ctex"]
 
 [params]
 

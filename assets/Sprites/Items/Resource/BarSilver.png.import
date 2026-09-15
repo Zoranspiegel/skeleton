@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dalawh7cfhi2x"
-path="res://.godot/imported/BarSilver.png-7f365f6535f02c080bffd6de8f623a37.ctex"
+path="res://.godot/imported/BarSilver.png-ec8953be8345651b5ba8f63e09e136a3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Items/Resource/BarSilver.png"
-dest_files=["res://.godot/imported/BarSilver.png-7f365f6535f02c080bffd6de8f623a37.ctex"]
+source_file="res://assets/Sprites/Items/Resource/BarSilver.png"
+dest_files=["res://.godot/imported/BarSilver.png-ec8953be8345651b5ba8f63e09e136a3.ctex"]
 
 [params]
 

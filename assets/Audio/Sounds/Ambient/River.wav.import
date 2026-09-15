@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://ct06wokpggiug"
-path="res://.godot/imported/River.wav-950e8a1ac9d171e782476abce3e652b6.sample"
+path="res://.godot/imported/River.wav-97403cba847d06faa6b5a9e2bbb50ee7.sample"
 
 [deps]
 
-source_file="res://Audio/Sounds/Ambient/River.wav"
-dest_files=["res://.godot/imported/River.wav-950e8a1ac9d171e782476abce3e652b6.sample"]
+source_file="res://assets/Audio/Sounds/Ambient/River.wav"
+dest_files=["res://.godot/imported/River.wav-97403cba847d06faa6b5a9e2bbb50ee7.sample"]
 
 [params]
 

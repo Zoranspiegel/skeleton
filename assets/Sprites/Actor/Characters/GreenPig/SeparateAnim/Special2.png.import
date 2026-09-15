@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://n5lrdlbdcaml"
-path="res://.godot/imported/Special2.png-8e316e397a7d295d8d29482c1d956b12.ctex"
+path="res://.godot/imported/Special2.png-1561ae526a293fef6460e19ba63b486b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/GreenPig/SeparateAnim/Special2.png"
-dest_files=["res://.godot/imported/Special2.png-8e316e397a7d295d8d29482c1d956b12.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/GreenPig/SeparateAnim/Special2.png"
+dest_files=["res://.godot/imported/Special2.png-1561ae526a293fef6460e19ba63b486b.ctex"]
 
 [params]
 

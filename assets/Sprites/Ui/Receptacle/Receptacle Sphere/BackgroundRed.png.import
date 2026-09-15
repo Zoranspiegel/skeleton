@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5ajyljukbxuo"
-path="res://.godot/imported/BackgroundRed.png-4b565a249a2b5e25bc7c3b5f0ac77ccb.ctex"
+path="res://.godot/imported/BackgroundRed.png-fef4fac03b14841ba2dbf96789a8d2cc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Receptacle/Receptacle Sphere/BackgroundRed.png"
-dest_files=["res://.godot/imported/BackgroundRed.png-4b565a249a2b5e25bc7c3b5f0ac77ccb.ctex"]
+source_file="res://assets/Sprites/Ui/Receptacle/Receptacle Sphere/BackgroundRed.png"
+dest_files=["res://.godot/imported/BackgroundRed.png-fef4fac03b14841ba2dbf96789a8d2cc.ctex"]
 
 [params]
 

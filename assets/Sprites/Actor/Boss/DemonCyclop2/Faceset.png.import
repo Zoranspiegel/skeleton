@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cu0g27rt2sxnf"
-path="res://.godot/imported/Faceset.png-b683e2372adf752532597080674e2b0f.ctex"
+path="res://.godot/imported/Faceset.png-79178f4af2cc925cdb4656997078fd8e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Boss/DemonCyclop2/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-b683e2372adf752532597080674e2b0f.ctex"]
+source_file="res://assets/Sprites/Actor/Boss/DemonCyclop2/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-79178f4af2cc925cdb4656997078fd8e.ctex"]
 
 [params]
 

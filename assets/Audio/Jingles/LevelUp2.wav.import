@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dvdrws4020n24"
-path="res://.godot/imported/LevelUp2.wav-58837922433106da8efb8cbac729ebd7.sample"
+path="res://.godot/imported/LevelUp2.wav-bee9aed230d4fc77294894a66fcbd73c.sample"
 
 [deps]
 
-source_file="res://Audio/Jingles/LevelUp2.wav"
-dest_files=["res://.godot/imported/LevelUp2.wav-58837922433106da8efb8cbac729ebd7.sample"]
+source_file="res://assets/Audio/Jingles/LevelUp2.wav"
+dest_files=["res://.godot/imported/LevelUp2.wav-bee9aed230d4fc77294894a66fcbd73c.sample"]
 
 [params]
 

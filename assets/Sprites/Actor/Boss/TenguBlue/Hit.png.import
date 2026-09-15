@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://civoncvijd71y"
-path="res://.godot/imported/Hit.png-bae8b8943b997d5363333b1dc78c8f84.ctex"
+path="res://.godot/imported/Hit.png-60f78a94b3db1ab75789ed5d09b27de6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Boss/TenguBlue/Hit.png"
-dest_files=["res://.godot/imported/Hit.png-bae8b8943b997d5363333b1dc78c8f84.ctex"]
+source_file="res://assets/Sprites/Actor/Boss/TenguBlue/Hit.png"
+dest_files=["res://.godot/imported/Hit.png-60f78a94b3db1ab75789ed5d09b27de6.ctex"]
 
 [params]
 

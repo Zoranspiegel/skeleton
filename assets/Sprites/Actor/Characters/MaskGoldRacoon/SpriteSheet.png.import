@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://brq6kesyb7gxu"
-path="res://.godot/imported/SpriteSheet.png-4e7038a27cd672c34bec42ffd5a6154e.ctex"
+path="res://.godot/imported/SpriteSheet.png-e95559be9610cf6e1ceb09c1c2d65db9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/MaskGoldRacoon/SpriteSheet.png"
-dest_files=["res://.godot/imported/SpriteSheet.png-4e7038a27cd672c34bec42ffd5a6154e.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/MaskGoldRacoon/SpriteSheet.png"
+dest_files=["res://.godot/imported/SpriteSheet.png-e95559be9610cf6e1ceb09c1c2d65db9.ctex"]
 
 [params]
 

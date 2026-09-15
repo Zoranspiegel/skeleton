@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c53plc0s6toy1"
-path="res://.godot/imported/HookDisabled.png-272ff53d5f383cd44995148976e6c26b.ctex"
+path="res://.godot/imported/HookDisabled.png-f1d355a95b1a6b1df8d682dbba5bb524.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Items & Weapon/HookDisabled.png"
-dest_files=["res://.godot/imported/HookDisabled.png-272ff53d5f383cd44995148976e6c26b.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Items & Weapon/HookDisabled.png"
+dest_files=["res://.godot/imported/HookDisabled.png-f1d355a95b1a6b1df8d682dbba5bb524.ctex"]
 
 [params]
 

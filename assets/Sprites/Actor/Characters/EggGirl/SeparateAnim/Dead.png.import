@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cxh0662cvstn3"
-path="res://.godot/imported/Dead.png-f6852d8ea5faa8f20981a0e1b93ee831.ctex"
+path="res://.godot/imported/Dead.png-e3e9307f9ab31774192d3768d23cf42a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/EggGirl/SeparateAnim/Dead.png"
-dest_files=["res://.godot/imported/Dead.png-f6852d8ea5faa8f20981a0e1b93ee831.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/EggGirl/SeparateAnim/Dead.png"
+dest_files=["res://.godot/imported/Dead.png-e3e9307f9ab31774192d3768d23cf42a.ctex"]
 
 [params]
 

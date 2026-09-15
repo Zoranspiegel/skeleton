@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvvhpukoupb31"
-path="res://.godot/imported/Item.png-834af27dd49d093dfdafeda531b98259.ctex"
+path="res://.godot/imported/Item.png-8713b3149ab35697fdf95ccf43c851e5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/OldMan2/SeparateAnim/Item.png"
-dest_files=["res://.godot/imported/Item.png-834af27dd49d093dfdafeda531b98259.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/OldMan2/SeparateAnim/Item.png"
+dest_files=["res://.godot/imported/Item.png-8713b3149ab35697fdf95ccf43c851e5.ctex"]
 
 [params]
 

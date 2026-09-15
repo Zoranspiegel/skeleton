@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://5exnm7t5gs4p"
-path="res://.godot/imported/Special2.png-e5d81224b5e7ef5a566c07c51bfc79b5.ctex"
+path="res://.godot/imported/Special2.png-985c2c1e3aa6d621e63e039f5c87caf8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/RobotGrey/SeparateAnim/Special2.png"
-dest_files=["res://.godot/imported/Special2.png-e5d81224b5e7ef5a566c07c51bfc79b5.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/RobotGrey/SeparateAnim/Special2.png"
+dest_files=["res://.godot/imported/Special2.png-985c2c1e3aa6d621e63e039f5c87caf8.ctex"]
 
 [params]
 

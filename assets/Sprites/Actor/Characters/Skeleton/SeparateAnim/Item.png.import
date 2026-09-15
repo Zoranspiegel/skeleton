@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://crqybfi558f1r"
-path="res://.godot/imported/Item.png-94e90abe4fde04cebff4620bd7162e7e.ctex"
+path="res://.godot/imported/Item.png-8fd467b6594779798990a4f8a34f2ce3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Characters/Skeleton/SeparateAnim/Item.png"
-dest_files=["res://.godot/imported/Item.png-94e90abe4fde04cebff4620bd7162e7e.ctex"]
+source_file="res://assets/Sprites/Actor/Characters/Skeleton/SeparateAnim/Item.png"
+dest_files=["res://.godot/imported/Item.png-8fd467b6594779798990a4f8a34f2ce3.ctex"]
 
 [params]
 

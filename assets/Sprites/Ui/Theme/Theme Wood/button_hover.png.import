@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://gcb8o27gatbu"
-path="res://.godot/imported/button_hover.png-6c11692ffde32be421172f1835d6f6a5.ctex"
+path="res://.godot/imported/button_hover.png-24b71a195289042b210116c8e1f245e0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Theme/Theme Wood/button_hover.png"
-dest_files=["res://.godot/imported/button_hover.png-6c11692ffde32be421172f1835d6f6a5.ctex"]
+source_file="res://assets/Sprites/Ui/Theme/Theme Wood/button_hover.png"
+dest_files=["res://.godot/imported/button_hover.png-24b71a195289042b210116c8e1f245e0.ctex"]
 
 [params]
 

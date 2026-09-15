@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cdjhv0hmwvueo"
-path="res://.godot/imported/Scroll.png-c4fe7a4c370f4b5a4276ac473dd36cad.ctex"
+path="res://.godot/imported/Scroll.png-e676146175f13ba36b65473d861d8e84.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Items & Weapon/Scroll.png"
-dest_files=["res://.godot/imported/Scroll.png-c4fe7a4c370f4b5a4276ac473dd36cad.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Items & Weapon/Scroll.png"
+dest_files=["res://.godot/imported/Scroll.png-e676146175f13ba36b65473d861d8e84.ctex"]
 
 [params]
 

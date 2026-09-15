@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://sdc6wk4yefgr"
-path="res://.godot/imported/FacesetBlue.png-c5a8f84eb0f2d072424808eb39c16957.ctex"
+path="res://.godot/imported/FacesetBlue.png-6f05a8b049d6362a3c70401d784f9552.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Animals/Parrot/FacesetBlue.png"
-dest_files=["res://.godot/imported/FacesetBlue.png-c5a8f84eb0f2d072424808eb39c16957.ctex"]
+source_file="res://assets/Sprites/Actor/Animals/Parrot/FacesetBlue.png"
+dest_files=["res://.godot/imported/FacesetBlue.png-6f05a8b049d6362a3c70401d784f9552.ctex"]
 
 [params]
 

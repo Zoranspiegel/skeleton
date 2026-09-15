@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c23h7q5ds650d"
-path="res://.godot/imported/Hit.png-5ac764016287b53d3def156b50be1c48.ctex"
+path="res://.godot/imported/Hit.png-47ac8fde9f302a611ec850b043aef7e3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Boss/DemonCyclop/Hit.png"
-dest_files=["res://.godot/imported/Hit.png-5ac764016287b53d3def156b50be1c48.ctex"]
+source_file="res://assets/Sprites/Actor/Boss/DemonCyclop/Hit.png"
+dest_files=["res://.godot/imported/Hit.png-47ac8fde9f302a611ec850b043aef7e3.ctex"]
 
 [params]
 

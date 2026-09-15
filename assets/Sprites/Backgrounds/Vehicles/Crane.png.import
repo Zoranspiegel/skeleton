@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bk4ibsb7o1tjn"
-path="res://.godot/imported/Crane.png-4a808d329edf2f877a3143115f8b0cc4.ctex"
+path="res://.godot/imported/Crane.png-29b8289c9856fcc8330267eed5380b75.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Backgrounds/Vehicles/Crane.png"
-dest_files=["res://.godot/imported/Crane.png-4a808d329edf2f877a3143115f8b0cc4.ctex"]
+source_file="res://assets/Sprites/Backgrounds/Vehicles/Crane.png"
+dest_files=["res://.godot/imported/Crane.png-29b8289c9856fcc8330267eed5380b75.ctex"]
 
 [params]
 

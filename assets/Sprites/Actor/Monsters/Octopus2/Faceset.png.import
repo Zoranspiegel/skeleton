@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cfuymgikwfnvp"
-path="res://.godot/imported/Faceset.png-6823959a55a0f05c340ee4c7cdf5b778.ctex"
+path="res://.godot/imported/Faceset.png-2c70395b9aa57db46474ffa9de5a9043.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Actor/Monsters/Octopus2/Faceset.png"
-dest_files=["res://.godot/imported/Faceset.png-6823959a55a0f05c340ee4c7cdf5b778.ctex"]
+source_file="res://assets/Sprites/Actor/Monsters/Octopus2/Faceset.png"
+dest_files=["res://.godot/imported/Faceset.png-2c70395b9aa57db46474ffa9de5a9043.ctex"]
 
 [params]
 

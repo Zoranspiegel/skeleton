@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bkggdu81rr52g"
-path="res://.godot/imported/Hook.png-b68023bfff1ce62bb9c188fa5b756d38.ctex"
+path="res://.godot/imported/Hook.png-77d2c6bd0df5e26418544380b9b89304.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Ui/Skill Icon/Items & Weapon/Hook.png"
-dest_files=["res://.godot/imported/Hook.png-b68023bfff1ce62bb9c188fa5b756d38.ctex"]
+source_file="res://assets/Sprites/Ui/Skill Icon/Items & Weapon/Hook.png"
+dest_files=["res://.godot/imported/Hook.png-77d2c6bd0df5e26418544380b9b89304.ctex"]
 
 [params]
 
