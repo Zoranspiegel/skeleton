@@ -184,7 +184,7 @@ animations = [{
 }],
 "loop": 1,
 "name": &"walk_down",
-"speed": 5.0
+"speed": 7.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -201,7 +201,7 @@ animations = [{
 }],
 "loop": 1,
 "name": &"walk_left",
-"speed": 5.0
+"speed": 7.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -218,7 +218,7 @@ animations = [{
 }],
 "loop": 1,
 "name": &"walk_right",
-"speed": 5.0
+"speed": 7.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -235,7 +235,7 @@ animations = [{
 }],
 "loop": 1,
 "name": &"walk_up",
-"speed": 5.0
+"speed": 7.0
 }]
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_lun0u"]
@@ -246,7 +246,7 @@ script = ExtResource("1_gmlin")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=1707776547]
 sprite_frames = SubResource("SpriteFrames_lun0u")
-animation = &"idle_down"
+animation = &"walk_down"
 autoplay = "idle_down"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1437414075]
@@ -255,6 +255,10 @@ shape = SubResource("CircleShape2D_lun0u")
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=1413996300]
 zoom = Vector2(3, 3)
+limit_left = 10
+limit_top = 10
+limit_right = 608
+limit_bottom = 390
 
 [node name="FSM" type="Node" parent="." unique_id=1324339200 node_paths=PackedStringArray("initial_state")]
 script = ExtResource("2_dovo2")
