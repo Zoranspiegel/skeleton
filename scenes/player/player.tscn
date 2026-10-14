@@ -1,0 +1,111 @@
+[gd_scene format=3 uid="uid://b0tapfax27snv"]
+
+[ext_resource type="Texture2D" uid="uid://6qcq2hes0ppu" path="res://assets/Sprites/Actor/Characters/Skeleton/SpriteSheet.png" id="1_8afob"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_dovo2"]
+atlas = ExtResource("1_8afob")
+region = Rect2(0, 0, 16, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_gmlin"]
+atlas = ExtResource("1_8afob")
+region = Rect2(32, 0, 16, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_lvxji"]
+atlas = ExtResource("1_8afob")
+region = Rect2(48, 0, 16, 16)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_p47bc"]
+atlas = ExtResource("1_8afob")
+region = Rect2(16, 0, 16, 16)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_lun0u"]
+animations = [{
+"frames": [],
+"loop": 0,
+"name": &"attack_down",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": 0,
+"name": &"attack_left",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": 0,
+"name": &"attack_right",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": 0,
+"name": &"attack_up",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_dovo2")
+}],
+"loop": 0,
+"name": &"idle_down",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_gmlin")
+}],
+"loop": 0,
+"name": &"idle_left",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_lvxji")
+}],
+"loop": 0,
+"name": &"idle_right",
+"speed": 5.0
+}, {
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_p47bc")
+}],
+"loop": 0,
+"name": &"idle_up",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": 1,
+"name": &"walk_down",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": 1,
+"name": &"walk_left",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": 1,
+"name": &"walk_right",
+"speed": 5.0
+}, {
+"frames": [],
+"loop": 1,
+"name": &"walk_up",
+"speed": 5.0
+}]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_lun0u"]
+radius = 6.0
+
+[node name="Player" type="CharacterBody2D" unique_id=1553939474]
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=1707776547]
+sprite_frames = SubResource("SpriteFrames_lun0u")
+animation = &"idle_down"
+autoplay = "idle_down"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1437414075]
+position = Vector2(0, 2)
+shape = SubResource("CircleShape2D_lun0u")
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=1413996300]
+zoom = Vector2(3, 3)
